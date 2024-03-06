@@ -1,0 +1,1805 @@
+level_0,index,YEAR,Trial,TRIAL_SHORT,Location,LOC_SHORT,Trt,Reps,Plots,SAMPLING,TRIAL_CODE,ACTIVITY_SHORT,Trt1,Rep1,Plot,LABEL
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",1,1,101,IWM-BE.O-22-HI-101
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",2,1,102,IWM-BE.O-22-HI-102
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",3,1,103,IWM-BE.O-22-HI-103
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",4,1,104,IWM-BE.O-22-HI-104
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",5,1,105,IWM-BE.O-22-HI-105
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",6,1,106,IWM-BE.O-22-HI-106
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",7,1,107,IWM-BE.O-22-HI-107
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",8,1,108,IWM-BE.O-22-HI-108
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",1,2,201,IWM-BE.O-22-HI-201
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",2,2,202,IWM-BE.O-22-HI-202
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",3,2,203,IWM-BE.O-22-HI-203
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",4,2,204,IWM-BE.O-22-HI-204
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",5,2,205,IWM-BE.O-22-HI-205
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",6,2,206,IWM-BE.O-22-HI-206
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",7,2,207,IWM-BE.O-22-HI-207
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",8,2,208,IWM-BE.O-22-HI-208
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",1,3,301,IWM-BE.O-22-HI-301
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",2,3,302,IWM-BE.O-22-HI-302
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",3,3,303,IWM-BE.O-22-HI-303
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",4,3,304,IWM-BE.O-22-HI-304
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",5,3,305,IWM-BE.O-22-HI-305
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",6,3,306,IWM-BE.O-22-HI-306
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",7,3,307,IWM-BE.O-22-HI-307
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",8,3,308,IWM-BE.O-22-HI-308
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",1,4,401,IWM-BE.O-22-HI-401
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",2,4,402,IWM-BE.O-22-HI-402
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",3,4,403,IWM-BE.O-22-HI-403
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",4,4,404,IWM-BE.O-22-HI-404
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",5,4,405,IWM-BE.O-22-HI-405
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",6,4,406,IWM-BE.O-22-HI-406
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",7,4,407,IWM-BE.O-22-HI-407
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",8,4,408,IWM-BE.O-22-HI-408
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",1,5,501,IWM-BE.O-22-HI-501
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",2,5,502,IWM-BE.O-22-HI-502
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",3,5,503,IWM-BE.O-22-HI-503
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",4,5,504,IWM-BE.O-22-HI-504
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",5,5,505,IWM-BE.O-22-HI-505
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",6,5,506,IWM-BE.O-22-HI-506
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",7,5,507,IWM-BE.O-22-HI-507
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,HI,14.0,"NU, FS, BS",8,5,508,IWM-BE.O-22-HI-508
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",1,1,101,IWM-BE.O-22-CB-101
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",2,1,102,IWM-BE.O-22-CB-102
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",3,1,103,IWM-BE.O-22-CB-103
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",4,1,104,IWM-BE.O-22-CB-104
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",5,1,105,IWM-BE.O-22-CB-105
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",6,1,106,IWM-BE.O-22-CB-106
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",7,1,107,IWM-BE.O-22-CB-107
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",8,1,108,IWM-BE.O-22-CB-108
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",1,2,201,IWM-BE.O-22-CB-201
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",2,2,202,IWM-BE.O-22-CB-202
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",3,2,203,IWM-BE.O-22-CB-203
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",4,2,204,IWM-BE.O-22-CB-204
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",5,2,205,IWM-BE.O-22-CB-205
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",6,2,206,IWM-BE.O-22-CB-206
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",7,2,207,IWM-BE.O-22-CB-207
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",8,2,208,IWM-BE.O-22-CB-208
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",1,3,301,IWM-BE.O-22-CB-301
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",2,3,302,IWM-BE.O-22-CB-302
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",3,3,303,IWM-BE.O-22-CB-303
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",4,3,304,IWM-BE.O-22-CB-304
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",5,3,305,IWM-BE.O-22-CB-305
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",6,3,306,IWM-BE.O-22-CB-306
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",7,3,307,IWM-BE.O-22-CB-307
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",8,3,308,IWM-BE.O-22-CB-308
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",1,4,401,IWM-BE.O-22-CB-401
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",2,4,402,IWM-BE.O-22-CB-402
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",3,4,403,IWM-BE.O-22-CB-403
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",4,4,404,IWM-BE.O-22-CB-404
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",5,4,405,IWM-BE.O-22-CB-405
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",6,4,406,IWM-BE.O-22-CB-406
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",7,4,407,IWM-BE.O-22-CB-407
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",8,4,408,IWM-BE.O-22-CB-408
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",1,5,501,IWM-BE.O-22-CB-501
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",2,5,502,IWM-BE.O-22-CB-502
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",3,5,503,IWM-BE.O-22-CB-503
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",4,5,504,IWM-BE.O-22-CB-504
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",5,5,505,IWM-BE.O-22-CB-505
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",6,5,506,IWM-BE.O-22-CB-506
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",7,5,507,IWM-BE.O-22-CB-507
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,CB,14.0,"NU, FS, BS",8,5,508,IWM-BE.O-22-CB-508
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",1,1,101,IWM-BE.O-22-DON-101
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",2,1,102,IWM-BE.O-22-DON-102
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",3,1,103,IWM-BE.O-22-DON-103
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",4,1,104,IWM-BE.O-22-DON-104
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",5,1,105,IWM-BE.O-22-DON-105
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",6,1,106,IWM-BE.O-22-DON-106
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",7,1,107,IWM-BE.O-22-DON-107
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",8,1,108,IWM-BE.O-22-DON-108
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",1,2,201,IWM-BE.O-22-DON-201
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",2,2,202,IWM-BE.O-22-DON-202
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",3,2,203,IWM-BE.O-22-DON-203
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",4,2,204,IWM-BE.O-22-DON-204
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",5,2,205,IWM-BE.O-22-DON-205
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",6,2,206,IWM-BE.O-22-DON-206
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",7,2,207,IWM-BE.O-22-DON-207
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",8,2,208,IWM-BE.O-22-DON-208
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",1,3,301,IWM-BE.O-22-DON-301
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",2,3,302,IWM-BE.O-22-DON-302
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",3,3,303,IWM-BE.O-22-DON-303
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",4,3,304,IWM-BE.O-22-DON-304
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",5,3,305,IWM-BE.O-22-DON-305
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",6,3,306,IWM-BE.O-22-DON-306
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",7,3,307,IWM-BE.O-22-DON-307
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",8,3,308,IWM-BE.O-22-DON-308
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",1,4,401,IWM-BE.O-22-DON-401
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",2,4,402,IWM-BE.O-22-DON-402
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",3,4,403,IWM-BE.O-22-DON-403
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",4,4,404,IWM-BE.O-22-DON-404
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",5,4,405,IWM-BE.O-22-DON-405
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",6,4,406,IWM-BE.O-22-DON-406
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",7,4,407,IWM-BE.O-22-DON-407
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",8,4,408,IWM-BE.O-22-DON-408
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",1,5,501,IWM-BE.O-22-DON-501
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",2,5,502,IWM-BE.O-22-DON-502
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",3,5,503,IWM-BE.O-22-DON-503
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",4,5,504,IWM-BE.O-22-DON-504
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",5,5,505,IWM-BE.O-22-DON-505
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",6,5,506,IWM-BE.O-22-DON-506
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",7,5,507,IWM-BE.O-22-DON-507
+0,11,22,KWC IWM,IWM,Belleville Optimum,BE.O,8.0,5.0,40,DON,14.0,"NU, FS, BS",8,5,508,IWM-BE.O-22-DON-508
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,1,1,101,NxF-BE.O-22-HI-101
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,2,1,102,NxF-BE.O-22-HI-102
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,3,1,103,NxF-BE.O-22-HI-103
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,4,1,104,NxF-BE.O-22-HI-104
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,5,1,105,NxF-BE.O-22-HI-105
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,6,1,106,NxF-BE.O-22-HI-106
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,7,1,107,NxF-BE.O-22-HI-107
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,8,1,108,NxF-BE.O-22-HI-108
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,9,1,109,NxF-BE.O-22-HI-109
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,10,1,110,NxF-BE.O-22-HI-110
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,11,1,111,NxF-BE.O-22-HI-111
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,12,1,112,NxF-BE.O-22-HI-112
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,13,1,113,NxF-BE.O-22-HI-113
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,14,1,114,NxF-BE.O-22-HI-114
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,15,1,115,NxF-BE.O-22-HI-115
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,16,1,116,NxF-BE.O-22-HI-116
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,17,1,117,NxF-BE.O-22-HI-117
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,18,1,118,NxF-BE.O-22-HI-118
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,19,1,119,NxF-BE.O-22-HI-119
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,20,1,120,NxF-BE.O-22-HI-120
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,1,2,201,NxF-BE.O-22-HI-201
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,2,2,202,NxF-BE.O-22-HI-202
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,3,2,203,NxF-BE.O-22-HI-203
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,4,2,204,NxF-BE.O-22-HI-204
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,5,2,205,NxF-BE.O-22-HI-205
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,6,2,206,NxF-BE.O-22-HI-206
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,7,2,207,NxF-BE.O-22-HI-207
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,8,2,208,NxF-BE.O-22-HI-208
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,9,2,209,NxF-BE.O-22-HI-209
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,10,2,210,NxF-BE.O-22-HI-210
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,11,2,211,NxF-BE.O-22-HI-211
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,12,2,212,NxF-BE.O-22-HI-212
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,13,2,213,NxF-BE.O-22-HI-213
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,14,2,214,NxF-BE.O-22-HI-214
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,15,2,215,NxF-BE.O-22-HI-215
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,16,2,216,NxF-BE.O-22-HI-216
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,17,2,217,NxF-BE.O-22-HI-217
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,18,2,218,NxF-BE.O-22-HI-218
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,19,2,219,NxF-BE.O-22-HI-219
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,20,2,220,NxF-BE.O-22-HI-220
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,1,3,301,NxF-BE.O-22-HI-301
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,2,3,302,NxF-BE.O-22-HI-302
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,3,3,303,NxF-BE.O-22-HI-303
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,4,3,304,NxF-BE.O-22-HI-304
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,5,3,305,NxF-BE.O-22-HI-305
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,6,3,306,NxF-BE.O-22-HI-306
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,7,3,307,NxF-BE.O-22-HI-307
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,8,3,308,NxF-BE.O-22-HI-308
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,9,3,309,NxF-BE.O-22-HI-309
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,10,3,310,NxF-BE.O-22-HI-310
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,11,3,311,NxF-BE.O-22-HI-311
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,12,3,312,NxF-BE.O-22-HI-312
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,13,3,313,NxF-BE.O-22-HI-313
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,14,3,314,NxF-BE.O-22-HI-314
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,15,3,315,NxF-BE.O-22-HI-315
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,16,3,316,NxF-BE.O-22-HI-316
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,17,3,317,NxF-BE.O-22-HI-317
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,18,3,318,NxF-BE.O-22-HI-318
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,19,3,319,NxF-BE.O-22-HI-319
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,HI,4.0,NU,20,3,320,NxF-BE.O-22-HI-320
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,1,1,101,NxF-BE.O-22-CB-101
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,2,1,102,NxF-BE.O-22-CB-102
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,3,1,103,NxF-BE.O-22-CB-103
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,4,1,104,NxF-BE.O-22-CB-104
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,5,1,105,NxF-BE.O-22-CB-105
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,6,1,106,NxF-BE.O-22-CB-106
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,7,1,107,NxF-BE.O-22-CB-107
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,8,1,108,NxF-BE.O-22-CB-108
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,9,1,109,NxF-BE.O-22-CB-109
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,10,1,110,NxF-BE.O-22-CB-110
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,11,1,111,NxF-BE.O-22-CB-111
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,12,1,112,NxF-BE.O-22-CB-112
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,13,1,113,NxF-BE.O-22-CB-113
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,14,1,114,NxF-BE.O-22-CB-114
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,15,1,115,NxF-BE.O-22-CB-115
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,16,1,116,NxF-BE.O-22-CB-116
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,17,1,117,NxF-BE.O-22-CB-117
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,18,1,118,NxF-BE.O-22-CB-118
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,19,1,119,NxF-BE.O-22-CB-119
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,20,1,120,NxF-BE.O-22-CB-120
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,1,2,201,NxF-BE.O-22-CB-201
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,2,2,202,NxF-BE.O-22-CB-202
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,3,2,203,NxF-BE.O-22-CB-203
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,4,2,204,NxF-BE.O-22-CB-204
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,5,2,205,NxF-BE.O-22-CB-205
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,6,2,206,NxF-BE.O-22-CB-206
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,7,2,207,NxF-BE.O-22-CB-207
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,8,2,208,NxF-BE.O-22-CB-208
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,9,2,209,NxF-BE.O-22-CB-209
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,10,2,210,NxF-BE.O-22-CB-210
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,11,2,211,NxF-BE.O-22-CB-211
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,12,2,212,NxF-BE.O-22-CB-212
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,13,2,213,NxF-BE.O-22-CB-213
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,14,2,214,NxF-BE.O-22-CB-214
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,15,2,215,NxF-BE.O-22-CB-215
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,16,2,216,NxF-BE.O-22-CB-216
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,17,2,217,NxF-BE.O-22-CB-217
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,18,2,218,NxF-BE.O-22-CB-218
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,19,2,219,NxF-BE.O-22-CB-219
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,20,2,220,NxF-BE.O-22-CB-220
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,1,3,301,NxF-BE.O-22-CB-301
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,2,3,302,NxF-BE.O-22-CB-302
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,3,3,303,NxF-BE.O-22-CB-303
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,4,3,304,NxF-BE.O-22-CB-304
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,5,3,305,NxF-BE.O-22-CB-305
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,6,3,306,NxF-BE.O-22-CB-306
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,7,3,307,NxF-BE.O-22-CB-307
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,8,3,308,NxF-BE.O-22-CB-308
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,9,3,309,NxF-BE.O-22-CB-309
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,10,3,310,NxF-BE.O-22-CB-310
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,11,3,311,NxF-BE.O-22-CB-311
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,12,3,312,NxF-BE.O-22-CB-312
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,13,3,313,NxF-BE.O-22-CB-313
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,14,3,314,NxF-BE.O-22-CB-314
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,15,3,315,NxF-BE.O-22-CB-315
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,16,3,316,NxF-BE.O-22-CB-316
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,17,3,317,NxF-BE.O-22-CB-317
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,18,3,318,NxF-BE.O-22-CB-318
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,19,3,319,NxF-BE.O-22-CB-319
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,CB,4.0,NU,20,3,320,NxF-BE.O-22-CB-320
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,1,1,101,NxF-BE.O-22-ST-101
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,2,1,102,NxF-BE.O-22-ST-102
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,3,1,103,NxF-BE.O-22-ST-103
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,4,1,104,NxF-BE.O-22-ST-104
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,5,1,105,NxF-BE.O-22-ST-105
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,6,1,106,NxF-BE.O-22-ST-106
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,7,1,107,NxF-BE.O-22-ST-107
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,8,1,108,NxF-BE.O-22-ST-108
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,9,1,109,NxF-BE.O-22-ST-109
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,10,1,110,NxF-BE.O-22-ST-110
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,11,1,111,NxF-BE.O-22-ST-111
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,12,1,112,NxF-BE.O-22-ST-112
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,13,1,113,NxF-BE.O-22-ST-113
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,14,1,114,NxF-BE.O-22-ST-114
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,15,1,115,NxF-BE.O-22-ST-115
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,16,1,116,NxF-BE.O-22-ST-116
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,17,1,117,NxF-BE.O-22-ST-117
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,18,1,118,NxF-BE.O-22-ST-118
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,19,1,119,NxF-BE.O-22-ST-119
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,20,1,120,NxF-BE.O-22-ST-120
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,1,2,201,NxF-BE.O-22-ST-201
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,2,2,202,NxF-BE.O-22-ST-202
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,3,2,203,NxF-BE.O-22-ST-203
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,4,2,204,NxF-BE.O-22-ST-204
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,5,2,205,NxF-BE.O-22-ST-205
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,6,2,206,NxF-BE.O-22-ST-206
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,7,2,207,NxF-BE.O-22-ST-207
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,8,2,208,NxF-BE.O-22-ST-208
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,9,2,209,NxF-BE.O-22-ST-209
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,10,2,210,NxF-BE.O-22-ST-210
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,11,2,211,NxF-BE.O-22-ST-211
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,12,2,212,NxF-BE.O-22-ST-212
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,13,2,213,NxF-BE.O-22-ST-213
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,14,2,214,NxF-BE.O-22-ST-214
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,15,2,215,NxF-BE.O-22-ST-215
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,16,2,216,NxF-BE.O-22-ST-216
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,17,2,217,NxF-BE.O-22-ST-217
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,18,2,218,NxF-BE.O-22-ST-218
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,19,2,219,NxF-BE.O-22-ST-219
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,20,2,220,NxF-BE.O-22-ST-220
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,1,3,301,NxF-BE.O-22-ST-301
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,2,3,302,NxF-BE.O-22-ST-302
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,3,3,303,NxF-BE.O-22-ST-303
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,4,3,304,NxF-BE.O-22-ST-304
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,5,3,305,NxF-BE.O-22-ST-305
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,6,3,306,NxF-BE.O-22-ST-306
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,7,3,307,NxF-BE.O-22-ST-307
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,8,3,308,NxF-BE.O-22-ST-308
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,9,3,309,NxF-BE.O-22-ST-309
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,10,3,310,NxF-BE.O-22-ST-310
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,11,3,311,NxF-BE.O-22-ST-311
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,12,3,312,NxF-BE.O-22-ST-312
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,13,3,313,NxF-BE.O-22-ST-313
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,14,3,314,NxF-BE.O-22-ST-314
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,15,3,315,NxF-BE.O-22-ST-315
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,16,3,316,NxF-BE.O-22-ST-316
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,17,3,317,NxF-BE.O-22-ST-317
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,18,3,318,NxF-BE.O-22-ST-318
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,19,3,319,NxF-BE.O-22-ST-319
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,ST,4.0,NU,20,3,320,NxF-BE.O-22-ST-320
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,1,1,101,NxF-BE.O-22-GR-101
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,2,1,102,NxF-BE.O-22-GR-102
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,3,1,103,NxF-BE.O-22-GR-103
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,4,1,104,NxF-BE.O-22-GR-104
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,5,1,105,NxF-BE.O-22-GR-105
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,6,1,106,NxF-BE.O-22-GR-106
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,7,1,107,NxF-BE.O-22-GR-107
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,8,1,108,NxF-BE.O-22-GR-108
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,9,1,109,NxF-BE.O-22-GR-109
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,10,1,110,NxF-BE.O-22-GR-110
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,11,1,111,NxF-BE.O-22-GR-111
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,12,1,112,NxF-BE.O-22-GR-112
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,13,1,113,NxF-BE.O-22-GR-113
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,14,1,114,NxF-BE.O-22-GR-114
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,15,1,115,NxF-BE.O-22-GR-115
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,16,1,116,NxF-BE.O-22-GR-116
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,17,1,117,NxF-BE.O-22-GR-117
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,18,1,118,NxF-BE.O-22-GR-118
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,19,1,119,NxF-BE.O-22-GR-119
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,20,1,120,NxF-BE.O-22-GR-120
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,1,2,201,NxF-BE.O-22-GR-201
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,2,2,202,NxF-BE.O-22-GR-202
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,3,2,203,NxF-BE.O-22-GR-203
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,4,2,204,NxF-BE.O-22-GR-204
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,5,2,205,NxF-BE.O-22-GR-205
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,6,2,206,NxF-BE.O-22-GR-206
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,7,2,207,NxF-BE.O-22-GR-207
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,8,2,208,NxF-BE.O-22-GR-208
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,9,2,209,NxF-BE.O-22-GR-209
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,10,2,210,NxF-BE.O-22-GR-210
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,11,2,211,NxF-BE.O-22-GR-211
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,12,2,212,NxF-BE.O-22-GR-212
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,13,2,213,NxF-BE.O-22-GR-213
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,14,2,214,NxF-BE.O-22-GR-214
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,15,2,215,NxF-BE.O-22-GR-215
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,16,2,216,NxF-BE.O-22-GR-216
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,17,2,217,NxF-BE.O-22-GR-217
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,18,2,218,NxF-BE.O-22-GR-218
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,19,2,219,NxF-BE.O-22-GR-219
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,20,2,220,NxF-BE.O-22-GR-220
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,1,3,301,NxF-BE.O-22-GR-301
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,2,3,302,NxF-BE.O-22-GR-302
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,3,3,303,NxF-BE.O-22-GR-303
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,4,3,304,NxF-BE.O-22-GR-304
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,5,3,305,NxF-BE.O-22-GR-305
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,6,3,306,NxF-BE.O-22-GR-306
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,7,3,307,NxF-BE.O-22-GR-307
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,8,3,308,NxF-BE.O-22-GR-308
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,9,3,309,NxF-BE.O-22-GR-309
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,10,3,310,NxF-BE.O-22-GR-310
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,11,3,311,NxF-BE.O-22-GR-311
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,12,3,312,NxF-BE.O-22-GR-312
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,13,3,313,NxF-BE.O-22-GR-313
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,14,3,314,NxF-BE.O-22-GR-314
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,15,3,315,NxF-BE.O-22-GR-315
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,16,3,316,NxF-BE.O-22-GR-316
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,17,3,317,NxF-BE.O-22-GR-317
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,18,3,318,NxF-BE.O-22-GR-318
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,19,3,319,NxF-BE.O-22-GR-319
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,GR,4.0,NU,20,3,320,NxF-BE.O-22-GR-320
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,1,1,101,NxF-BE.O-22-Book-101
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,2,1,102,NxF-BE.O-22-Book-102
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,3,1,103,NxF-BE.O-22-Book-103
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,4,1,104,NxF-BE.O-22-Book-104
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,5,1,105,NxF-BE.O-22-Book-105
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,6,1,106,NxF-BE.O-22-Book-106
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,7,1,107,NxF-BE.O-22-Book-107
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,8,1,108,NxF-BE.O-22-Book-108
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,9,1,109,NxF-BE.O-22-Book-109
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,10,1,110,NxF-BE.O-22-Book-110
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,11,1,111,NxF-BE.O-22-Book-111
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,12,1,112,NxF-BE.O-22-Book-112
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,13,1,113,NxF-BE.O-22-Book-113
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,14,1,114,NxF-BE.O-22-Book-114
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,15,1,115,NxF-BE.O-22-Book-115
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,16,1,116,NxF-BE.O-22-Book-116
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,17,1,117,NxF-BE.O-22-Book-117
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,18,1,118,NxF-BE.O-22-Book-118
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,19,1,119,NxF-BE.O-22-Book-119
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,20,1,120,NxF-BE.O-22-Book-120
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,1,2,201,NxF-BE.O-22-Book-201
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,2,2,202,NxF-BE.O-22-Book-202
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,3,2,203,NxF-BE.O-22-Book-203
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,4,2,204,NxF-BE.O-22-Book-204
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,5,2,205,NxF-BE.O-22-Book-205
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,6,2,206,NxF-BE.O-22-Book-206
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,7,2,207,NxF-BE.O-22-Book-207
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,8,2,208,NxF-BE.O-22-Book-208
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,9,2,209,NxF-BE.O-22-Book-209
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,10,2,210,NxF-BE.O-22-Book-210
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,11,2,211,NxF-BE.O-22-Book-211
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,12,2,212,NxF-BE.O-22-Book-212
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,13,2,213,NxF-BE.O-22-Book-213
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,14,2,214,NxF-BE.O-22-Book-214
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,15,2,215,NxF-BE.O-22-Book-215
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,16,2,216,NxF-BE.O-22-Book-216
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,17,2,217,NxF-BE.O-22-Book-217
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,18,2,218,NxF-BE.O-22-Book-218
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,19,2,219,NxF-BE.O-22-Book-219
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,20,2,220,NxF-BE.O-22-Book-220
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,1,3,301,NxF-BE.O-22-Book-301
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,2,3,302,NxF-BE.O-22-Book-302
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,3,3,303,NxF-BE.O-22-Book-303
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,4,3,304,NxF-BE.O-22-Book-304
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,5,3,305,NxF-BE.O-22-Book-305
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,6,3,306,NxF-BE.O-22-Book-306
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,7,3,307,NxF-BE.O-22-Book-307
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,8,3,308,NxF-BE.O-22-Book-308
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,9,3,309,NxF-BE.O-22-Book-309
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,10,3,310,NxF-BE.O-22-Book-310
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,11,3,311,NxF-BE.O-22-Book-311
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,12,3,312,NxF-BE.O-22-Book-312
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,13,3,313,NxF-BE.O-22-Book-313
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,14,3,314,NxF-BE.O-22-Book-314
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,15,3,315,NxF-BE.O-22-Book-315
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,16,3,316,NxF-BE.O-22-Book-316
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,17,3,317,NxF-BE.O-22-Book-317
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,18,3,318,NxF-BE.O-22-Book-318
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,19,3,319,NxF-BE.O-22-Book-319
+1,12,22,Nitrogen x fungicide,NxF,Belleville Optimum,BE.O,20.0,3.0,60,Book,4.0,NU,20,3,320,NxF-BE.O-22-Book-320
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",1,1,101,US-BE.O-22-CB-101
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",2,1,102,US-BE.O-22-CB-102
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",3,1,103,US-BE.O-22-CB-103
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",4,1,104,US-BE.O-22-CB-104
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",5,1,105,US-BE.O-22-CB-105
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",6,1,106,US-BE.O-22-CB-106
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",7,1,107,US-BE.O-22-CB-107
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",8,1,108,US-BE.O-22-CB-108
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",9,1,109,US-BE.O-22-CB-109
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",10,1,110,US-BE.O-22-CB-110
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",11,1,111,US-BE.O-22-CB-111
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",12,1,112,US-BE.O-22-CB-112
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",13,1,113,US-BE.O-22-CB-113
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",14,1,114,US-BE.O-22-CB-114
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",15,1,115,US-BE.O-22-CB-115
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",16,1,116,US-BE.O-22-CB-116
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",17,1,117,US-BE.O-22-CB-117
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",18,1,118,US-BE.O-22-CB-118
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",1,2,201,US-BE.O-22-CB-201
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",2,2,202,US-BE.O-22-CB-202
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",3,2,203,US-BE.O-22-CB-203
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",4,2,204,US-BE.O-22-CB-204
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",5,2,205,US-BE.O-22-CB-205
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",6,2,206,US-BE.O-22-CB-206
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",7,2,207,US-BE.O-22-CB-207
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",8,2,208,US-BE.O-22-CB-208
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",9,2,209,US-BE.O-22-CB-209
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",10,2,210,US-BE.O-22-CB-210
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",11,2,211,US-BE.O-22-CB-211
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",12,2,212,US-BE.O-22-CB-212
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",13,2,213,US-BE.O-22-CB-213
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",14,2,214,US-BE.O-22-CB-214
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",15,2,215,US-BE.O-22-CB-215
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",16,2,216,US-BE.O-22-CB-216
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",17,2,217,US-BE.O-22-CB-217
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",18,2,218,US-BE.O-22-CB-218
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",1,3,301,US-BE.O-22-CB-301
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",2,3,302,US-BE.O-22-CB-302
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",3,3,303,US-BE.O-22-CB-303
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",4,3,304,US-BE.O-22-CB-304
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",5,3,305,US-BE.O-22-CB-305
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",6,3,306,US-BE.O-22-CB-306
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",7,3,307,US-BE.O-22-CB-307
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",8,3,308,US-BE.O-22-CB-308
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",9,3,309,US-BE.O-22-CB-309
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",10,3,310,US-BE.O-22-CB-310
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",11,3,311,US-BE.O-22-CB-311
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",12,3,312,US-BE.O-22-CB-312
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",13,3,313,US-BE.O-22-CB-313
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",14,3,314,US-BE.O-22-CB-314
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",15,3,315,US-BE.O-22-CB-315
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",16,3,316,US-BE.O-22-CB-316
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",17,3,317,US-BE.O-22-CB-317
+2,13,22,USWBSI IM,US,Belleville Optimum,BE.O,18.0,3.0,54,CB,19.0,"NU, FS, BS",18,3,318,US-BE.O-22-CB-318
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,1,1,101,Clx2-BE.S-22-F10.5-101
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,2,1,102,Clx2-BE.S-22-F10.5-102
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,3,1,103,Clx2-BE.S-22-F10.5-103
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,4,1,104,Clx2-BE.S-22-F10.5-104
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,1,2,201,Clx2-BE.S-22-F10.5-201
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,2,2,202,Clx2-BE.S-22-F10.5-202
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,3,2,203,Clx2-BE.S-22-F10.5-203
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,4,2,204,Clx2-BE.S-22-F10.5-204
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,1,3,301,Clx2-BE.S-22-F10.5-301
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,2,3,302,Clx2-BE.S-22-F10.5-302
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,3,3,303,Clx2-BE.S-22-F10.5-303
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,4,3,304,Clx2-BE.S-22-F10.5-304
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,1,4,401,Clx2-BE.S-22-F10.5-401
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,2,4,402,Clx2-BE.S-22-F10.5-402
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,3,4,403,Clx2-BE.S-22-F10.5-403
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,F10.5,1.0,NU,4,4,404,Clx2-BE.S-22-F10.5-404
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,1,1,101,Clx2-BE.S-22-CB-101
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,2,1,102,Clx2-BE.S-22-CB-102
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,3,1,103,Clx2-BE.S-22-CB-103
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,4,1,104,Clx2-BE.S-22-CB-104
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,1,2,201,Clx2-BE.S-22-CB-201
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,2,2,202,Clx2-BE.S-22-CB-202
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,3,2,203,Clx2-BE.S-22-CB-203
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,4,2,204,Clx2-BE.S-22-CB-204
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,1,3,301,Clx2-BE.S-22-CB-301
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,2,3,302,Clx2-BE.S-22-CB-302
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,3,3,303,Clx2-BE.S-22-CB-303
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,4,3,304,Clx2-BE.S-22-CB-304
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,1,4,401,Clx2-BE.S-22-CB-401
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,2,4,402,Clx2-BE.S-22-CB-402
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,3,4,403,Clx2-BE.S-22-CB-403
+3,14,22,Cl x 2 varieties,Clx2,Belleville Soybeans,BE.S,4.0,4.0,16,CB,1.0,NU,4,4,404,Clx2-BE.S-22-CB-404
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",1,1,101,IWM-BE.S-22-HI-101
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",2,1,102,IWM-BE.S-22-HI-102
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",3,1,103,IWM-BE.S-22-HI-103
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",4,1,104,IWM-BE.S-22-HI-104
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",5,1,105,IWM-BE.S-22-HI-105
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",6,1,106,IWM-BE.S-22-HI-106
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",7,1,107,IWM-BE.S-22-HI-107
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",8,1,108,IWM-BE.S-22-HI-108
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",1,2,201,IWM-BE.S-22-HI-201
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",2,2,202,IWM-BE.S-22-HI-202
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",3,2,203,IWM-BE.S-22-HI-203
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",4,2,204,IWM-BE.S-22-HI-204
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",5,2,205,IWM-BE.S-22-HI-205
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",6,2,206,IWM-BE.S-22-HI-206
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",7,2,207,IWM-BE.S-22-HI-207
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",8,2,208,IWM-BE.S-22-HI-208
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",1,3,301,IWM-BE.S-22-HI-301
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",2,3,302,IWM-BE.S-22-HI-302
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",3,3,303,IWM-BE.S-22-HI-303
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",4,3,304,IWM-BE.S-22-HI-304
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",5,3,305,IWM-BE.S-22-HI-305
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",6,3,306,IWM-BE.S-22-HI-306
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",7,3,307,IWM-BE.S-22-HI-307
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",8,3,308,IWM-BE.S-22-HI-308
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",1,4,401,IWM-BE.S-22-HI-401
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",2,4,402,IWM-BE.S-22-HI-402
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",3,4,403,IWM-BE.S-22-HI-403
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",4,4,404,IWM-BE.S-22-HI-404
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",5,4,405,IWM-BE.S-22-HI-405
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",6,4,406,IWM-BE.S-22-HI-406
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",7,4,407,IWM-BE.S-22-HI-407
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,HI,14.0,"NU, FS, BS",8,4,408,IWM-BE.S-22-HI-408
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",1,1,101,IWM-BE.S-22-CB-101
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",2,1,102,IWM-BE.S-22-CB-102
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",3,1,103,IWM-BE.S-22-CB-103
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",4,1,104,IWM-BE.S-22-CB-104
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",5,1,105,IWM-BE.S-22-CB-105
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",6,1,106,IWM-BE.S-22-CB-106
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",7,1,107,IWM-BE.S-22-CB-107
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",8,1,108,IWM-BE.S-22-CB-108
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",1,2,201,IWM-BE.S-22-CB-201
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",2,2,202,IWM-BE.S-22-CB-202
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",3,2,203,IWM-BE.S-22-CB-203
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",4,2,204,IWM-BE.S-22-CB-204
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",5,2,205,IWM-BE.S-22-CB-205
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",6,2,206,IWM-BE.S-22-CB-206
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",7,2,207,IWM-BE.S-22-CB-207
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",8,2,208,IWM-BE.S-22-CB-208
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",1,3,301,IWM-BE.S-22-CB-301
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",2,3,302,IWM-BE.S-22-CB-302
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",3,3,303,IWM-BE.S-22-CB-303
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",4,3,304,IWM-BE.S-22-CB-304
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",5,3,305,IWM-BE.S-22-CB-305
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",6,3,306,IWM-BE.S-22-CB-306
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",7,3,307,IWM-BE.S-22-CB-307
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",8,3,308,IWM-BE.S-22-CB-308
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",1,4,401,IWM-BE.S-22-CB-401
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",2,4,402,IWM-BE.S-22-CB-402
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",3,4,403,IWM-BE.S-22-CB-403
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",4,4,404,IWM-BE.S-22-CB-404
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",5,4,405,IWM-BE.S-22-CB-405
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",6,4,406,IWM-BE.S-22-CB-406
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",7,4,407,IWM-BE.S-22-CB-407
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,CB,14.0,"NU, FS, BS",8,4,408,IWM-BE.S-22-CB-408
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",1,1,101,IWM-BE.S-22-DON-101
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",2,1,102,IWM-BE.S-22-DON-102
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",3,1,103,IWM-BE.S-22-DON-103
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",4,1,104,IWM-BE.S-22-DON-104
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",5,1,105,IWM-BE.S-22-DON-105
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",6,1,106,IWM-BE.S-22-DON-106
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",7,1,107,IWM-BE.S-22-DON-107
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",8,1,108,IWM-BE.S-22-DON-108
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",1,2,201,IWM-BE.S-22-DON-201
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",2,2,202,IWM-BE.S-22-DON-202
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",3,2,203,IWM-BE.S-22-DON-203
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",4,2,204,IWM-BE.S-22-DON-204
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",5,2,205,IWM-BE.S-22-DON-205
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",6,2,206,IWM-BE.S-22-DON-206
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",7,2,207,IWM-BE.S-22-DON-207
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",8,2,208,IWM-BE.S-22-DON-208
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",1,3,301,IWM-BE.S-22-DON-301
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",2,3,302,IWM-BE.S-22-DON-302
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",3,3,303,IWM-BE.S-22-DON-303
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",4,3,304,IWM-BE.S-22-DON-304
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",5,3,305,IWM-BE.S-22-DON-305
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",6,3,306,IWM-BE.S-22-DON-306
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",7,3,307,IWM-BE.S-22-DON-307
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",8,3,308,IWM-BE.S-22-DON-308
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",1,4,401,IWM-BE.S-22-DON-401
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",2,4,402,IWM-BE.S-22-DON-402
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",3,4,403,IWM-BE.S-22-DON-403
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",4,4,404,IWM-BE.S-22-DON-404
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",5,4,405,IWM-BE.S-22-DON-405
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",6,4,406,IWM-BE.S-22-DON-406
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",7,4,407,IWM-BE.S-22-DON-407
+4,15,22,KWC IWM,IWM,Belleville Soybeans,BE.S,8.0,4.0,32,DON,14.0,"NU, FS, BS",8,4,408,IWM-BE.S-22-DON-408
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,1,1,101,NxF-BE.S-22-HI-101
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,2,1,102,NxF-BE.S-22-HI-102
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,3,1,103,NxF-BE.S-22-HI-103
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,4,1,104,NxF-BE.S-22-HI-104
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,5,1,105,NxF-BE.S-22-HI-105
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,6,1,106,NxF-BE.S-22-HI-106
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,7,1,107,NxF-BE.S-22-HI-107
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,8,1,108,NxF-BE.S-22-HI-108
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,9,1,109,NxF-BE.S-22-HI-109
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,10,1,110,NxF-BE.S-22-HI-110
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,11,1,111,NxF-BE.S-22-HI-111
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,12,1,112,NxF-BE.S-22-HI-112
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,13,1,113,NxF-BE.S-22-HI-113
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,14,1,114,NxF-BE.S-22-HI-114
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,15,1,115,NxF-BE.S-22-HI-115
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,16,1,116,NxF-BE.S-22-HI-116
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,17,1,117,NxF-BE.S-22-HI-117
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,18,1,118,NxF-BE.S-22-HI-118
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,19,1,119,NxF-BE.S-22-HI-119
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,20,1,120,NxF-BE.S-22-HI-120
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,1,2,201,NxF-BE.S-22-HI-201
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,2,2,202,NxF-BE.S-22-HI-202
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,3,2,203,NxF-BE.S-22-HI-203
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,4,2,204,NxF-BE.S-22-HI-204
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,5,2,205,NxF-BE.S-22-HI-205
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,6,2,206,NxF-BE.S-22-HI-206
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,7,2,207,NxF-BE.S-22-HI-207
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,8,2,208,NxF-BE.S-22-HI-208
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,9,2,209,NxF-BE.S-22-HI-209
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,10,2,210,NxF-BE.S-22-HI-210
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,11,2,211,NxF-BE.S-22-HI-211
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,12,2,212,NxF-BE.S-22-HI-212
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,13,2,213,NxF-BE.S-22-HI-213
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,14,2,214,NxF-BE.S-22-HI-214
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,15,2,215,NxF-BE.S-22-HI-215
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,16,2,216,NxF-BE.S-22-HI-216
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,17,2,217,NxF-BE.S-22-HI-217
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,18,2,218,NxF-BE.S-22-HI-218
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,19,2,219,NxF-BE.S-22-HI-219
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,20,2,220,NxF-BE.S-22-HI-220
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,1,3,301,NxF-BE.S-22-HI-301
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,2,3,302,NxF-BE.S-22-HI-302
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,3,3,303,NxF-BE.S-22-HI-303
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,4,3,304,NxF-BE.S-22-HI-304
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,5,3,305,NxF-BE.S-22-HI-305
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,6,3,306,NxF-BE.S-22-HI-306
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,7,3,307,NxF-BE.S-22-HI-307
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,8,3,308,NxF-BE.S-22-HI-308
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,9,3,309,NxF-BE.S-22-HI-309
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,10,3,310,NxF-BE.S-22-HI-310
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,11,3,311,NxF-BE.S-22-HI-311
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,12,3,312,NxF-BE.S-22-HI-312
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,13,3,313,NxF-BE.S-22-HI-313
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,14,3,314,NxF-BE.S-22-HI-314
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,15,3,315,NxF-BE.S-22-HI-315
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,16,3,316,NxF-BE.S-22-HI-316
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,17,3,317,NxF-BE.S-22-HI-317
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,18,3,318,NxF-BE.S-22-HI-318
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,19,3,319,NxF-BE.S-22-HI-319
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,HI,4.0,NU,20,3,320,NxF-BE.S-22-HI-320
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,1,1,101,NxF-BE.S-22-CB-101
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,2,1,102,NxF-BE.S-22-CB-102
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,3,1,103,NxF-BE.S-22-CB-103
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,4,1,104,NxF-BE.S-22-CB-104
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,5,1,105,NxF-BE.S-22-CB-105
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,6,1,106,NxF-BE.S-22-CB-106
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,7,1,107,NxF-BE.S-22-CB-107
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,8,1,108,NxF-BE.S-22-CB-108
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,9,1,109,NxF-BE.S-22-CB-109
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,10,1,110,NxF-BE.S-22-CB-110
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,11,1,111,NxF-BE.S-22-CB-111
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,12,1,112,NxF-BE.S-22-CB-112
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,13,1,113,NxF-BE.S-22-CB-113
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,14,1,114,NxF-BE.S-22-CB-114
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,15,1,115,NxF-BE.S-22-CB-115
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,16,1,116,NxF-BE.S-22-CB-116
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,17,1,117,NxF-BE.S-22-CB-117
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,18,1,118,NxF-BE.S-22-CB-118
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,19,1,119,NxF-BE.S-22-CB-119
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,20,1,120,NxF-BE.S-22-CB-120
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,1,2,201,NxF-BE.S-22-CB-201
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,2,2,202,NxF-BE.S-22-CB-202
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,3,2,203,NxF-BE.S-22-CB-203
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,4,2,204,NxF-BE.S-22-CB-204
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,5,2,205,NxF-BE.S-22-CB-205
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,6,2,206,NxF-BE.S-22-CB-206
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,7,2,207,NxF-BE.S-22-CB-207
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,8,2,208,NxF-BE.S-22-CB-208
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,9,2,209,NxF-BE.S-22-CB-209
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,10,2,210,NxF-BE.S-22-CB-210
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,11,2,211,NxF-BE.S-22-CB-211
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,12,2,212,NxF-BE.S-22-CB-212
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,13,2,213,NxF-BE.S-22-CB-213
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,14,2,214,NxF-BE.S-22-CB-214
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,15,2,215,NxF-BE.S-22-CB-215
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,16,2,216,NxF-BE.S-22-CB-216
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,17,2,217,NxF-BE.S-22-CB-217
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,18,2,218,NxF-BE.S-22-CB-218
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,19,2,219,NxF-BE.S-22-CB-219
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,20,2,220,NxF-BE.S-22-CB-220
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,1,3,301,NxF-BE.S-22-CB-301
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,2,3,302,NxF-BE.S-22-CB-302
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,3,3,303,NxF-BE.S-22-CB-303
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,4,3,304,NxF-BE.S-22-CB-304
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,5,3,305,NxF-BE.S-22-CB-305
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,6,3,306,NxF-BE.S-22-CB-306
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,7,3,307,NxF-BE.S-22-CB-307
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,8,3,308,NxF-BE.S-22-CB-308
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,9,3,309,NxF-BE.S-22-CB-309
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,10,3,310,NxF-BE.S-22-CB-310
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,11,3,311,NxF-BE.S-22-CB-311
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,12,3,312,NxF-BE.S-22-CB-312
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,13,3,313,NxF-BE.S-22-CB-313
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,14,3,314,NxF-BE.S-22-CB-314
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,15,3,315,NxF-BE.S-22-CB-315
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,16,3,316,NxF-BE.S-22-CB-316
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,17,3,317,NxF-BE.S-22-CB-317
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,18,3,318,NxF-BE.S-22-CB-318
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,19,3,319,NxF-BE.S-22-CB-319
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,CB,4.0,NU,20,3,320,NxF-BE.S-22-CB-320
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,1,1,101,NxF-BE.S-22-ST-101
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,2,1,102,NxF-BE.S-22-ST-102
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,3,1,103,NxF-BE.S-22-ST-103
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,4,1,104,NxF-BE.S-22-ST-104
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,5,1,105,NxF-BE.S-22-ST-105
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,6,1,106,NxF-BE.S-22-ST-106
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,7,1,107,NxF-BE.S-22-ST-107
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,8,1,108,NxF-BE.S-22-ST-108
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,9,1,109,NxF-BE.S-22-ST-109
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,10,1,110,NxF-BE.S-22-ST-110
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,11,1,111,NxF-BE.S-22-ST-111
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,12,1,112,NxF-BE.S-22-ST-112
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,13,1,113,NxF-BE.S-22-ST-113
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,14,1,114,NxF-BE.S-22-ST-114
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,15,1,115,NxF-BE.S-22-ST-115
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,16,1,116,NxF-BE.S-22-ST-116
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,17,1,117,NxF-BE.S-22-ST-117
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,18,1,118,NxF-BE.S-22-ST-118
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,19,1,119,NxF-BE.S-22-ST-119
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,20,1,120,NxF-BE.S-22-ST-120
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,1,2,201,NxF-BE.S-22-ST-201
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,2,2,202,NxF-BE.S-22-ST-202
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,3,2,203,NxF-BE.S-22-ST-203
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,4,2,204,NxF-BE.S-22-ST-204
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,5,2,205,NxF-BE.S-22-ST-205
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,6,2,206,NxF-BE.S-22-ST-206
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,7,2,207,NxF-BE.S-22-ST-207
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,8,2,208,NxF-BE.S-22-ST-208
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,9,2,209,NxF-BE.S-22-ST-209
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,10,2,210,NxF-BE.S-22-ST-210
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,11,2,211,NxF-BE.S-22-ST-211
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,12,2,212,NxF-BE.S-22-ST-212
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,13,2,213,NxF-BE.S-22-ST-213
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,14,2,214,NxF-BE.S-22-ST-214
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,15,2,215,NxF-BE.S-22-ST-215
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,16,2,216,NxF-BE.S-22-ST-216
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,17,2,217,NxF-BE.S-22-ST-217
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,18,2,218,NxF-BE.S-22-ST-218
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,19,2,219,NxF-BE.S-22-ST-219
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,20,2,220,NxF-BE.S-22-ST-220
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,1,3,301,NxF-BE.S-22-ST-301
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,2,3,302,NxF-BE.S-22-ST-302
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,3,3,303,NxF-BE.S-22-ST-303
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,4,3,304,NxF-BE.S-22-ST-304
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,5,3,305,NxF-BE.S-22-ST-305
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,6,3,306,NxF-BE.S-22-ST-306
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,7,3,307,NxF-BE.S-22-ST-307
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,8,3,308,NxF-BE.S-22-ST-308
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,9,3,309,NxF-BE.S-22-ST-309
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,10,3,310,NxF-BE.S-22-ST-310
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,11,3,311,NxF-BE.S-22-ST-311
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,12,3,312,NxF-BE.S-22-ST-312
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,13,3,313,NxF-BE.S-22-ST-313
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,14,3,314,NxF-BE.S-22-ST-314
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,15,3,315,NxF-BE.S-22-ST-315
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,16,3,316,NxF-BE.S-22-ST-316
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,17,3,317,NxF-BE.S-22-ST-317
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,18,3,318,NxF-BE.S-22-ST-318
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,19,3,319,NxF-BE.S-22-ST-319
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,ST,4.0,NU,20,3,320,NxF-BE.S-22-ST-320
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,1,1,101,NxF-BE.S-22-GR-101
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,2,1,102,NxF-BE.S-22-GR-102
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,3,1,103,NxF-BE.S-22-GR-103
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,4,1,104,NxF-BE.S-22-GR-104
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,5,1,105,NxF-BE.S-22-GR-105
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,6,1,106,NxF-BE.S-22-GR-106
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,7,1,107,NxF-BE.S-22-GR-107
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,8,1,108,NxF-BE.S-22-GR-108
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,9,1,109,NxF-BE.S-22-GR-109
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,10,1,110,NxF-BE.S-22-GR-110
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,11,1,111,NxF-BE.S-22-GR-111
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,12,1,112,NxF-BE.S-22-GR-112
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,13,1,113,NxF-BE.S-22-GR-113
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,14,1,114,NxF-BE.S-22-GR-114
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,15,1,115,NxF-BE.S-22-GR-115
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,16,1,116,NxF-BE.S-22-GR-116
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,17,1,117,NxF-BE.S-22-GR-117
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,18,1,118,NxF-BE.S-22-GR-118
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,19,1,119,NxF-BE.S-22-GR-119
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,20,1,120,NxF-BE.S-22-GR-120
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,1,2,201,NxF-BE.S-22-GR-201
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,2,2,202,NxF-BE.S-22-GR-202
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,3,2,203,NxF-BE.S-22-GR-203
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,4,2,204,NxF-BE.S-22-GR-204
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,5,2,205,NxF-BE.S-22-GR-205
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,6,2,206,NxF-BE.S-22-GR-206
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,7,2,207,NxF-BE.S-22-GR-207
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,8,2,208,NxF-BE.S-22-GR-208
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,9,2,209,NxF-BE.S-22-GR-209
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,10,2,210,NxF-BE.S-22-GR-210
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,11,2,211,NxF-BE.S-22-GR-211
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,12,2,212,NxF-BE.S-22-GR-212
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,13,2,213,NxF-BE.S-22-GR-213
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,14,2,214,NxF-BE.S-22-GR-214
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,15,2,215,NxF-BE.S-22-GR-215
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,16,2,216,NxF-BE.S-22-GR-216
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,17,2,217,NxF-BE.S-22-GR-217
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,18,2,218,NxF-BE.S-22-GR-218
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,19,2,219,NxF-BE.S-22-GR-219
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,20,2,220,NxF-BE.S-22-GR-220
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,1,3,301,NxF-BE.S-22-GR-301
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,2,3,302,NxF-BE.S-22-GR-302
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,3,3,303,NxF-BE.S-22-GR-303
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,4,3,304,NxF-BE.S-22-GR-304
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,5,3,305,NxF-BE.S-22-GR-305
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,6,3,306,NxF-BE.S-22-GR-306
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,7,3,307,NxF-BE.S-22-GR-307
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,8,3,308,NxF-BE.S-22-GR-308
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,9,3,309,NxF-BE.S-22-GR-309
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,10,3,310,NxF-BE.S-22-GR-310
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,11,3,311,NxF-BE.S-22-GR-311
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,12,3,312,NxF-BE.S-22-GR-312
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,13,3,313,NxF-BE.S-22-GR-313
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,14,3,314,NxF-BE.S-22-GR-314
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,15,3,315,NxF-BE.S-22-GR-315
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,16,3,316,NxF-BE.S-22-GR-316
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,17,3,317,NxF-BE.S-22-GR-317
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,18,3,318,NxF-BE.S-22-GR-318
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,19,3,319,NxF-BE.S-22-GR-319
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,GR,4.0,NU,20,3,320,NxF-BE.S-22-GR-320
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,1,1,101,NxF-BE.S-22-Book-101
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,2,1,102,NxF-BE.S-22-Book-102
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,3,1,103,NxF-BE.S-22-Book-103
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,4,1,104,NxF-BE.S-22-Book-104
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,5,1,105,NxF-BE.S-22-Book-105
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,6,1,106,NxF-BE.S-22-Book-106
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,7,1,107,NxF-BE.S-22-Book-107
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,8,1,108,NxF-BE.S-22-Book-108
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,9,1,109,NxF-BE.S-22-Book-109
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,10,1,110,NxF-BE.S-22-Book-110
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,11,1,111,NxF-BE.S-22-Book-111
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,12,1,112,NxF-BE.S-22-Book-112
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,13,1,113,NxF-BE.S-22-Book-113
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,14,1,114,NxF-BE.S-22-Book-114
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,15,1,115,NxF-BE.S-22-Book-115
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,16,1,116,NxF-BE.S-22-Book-116
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,17,1,117,NxF-BE.S-22-Book-117
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,18,1,118,NxF-BE.S-22-Book-118
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,19,1,119,NxF-BE.S-22-Book-119
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,20,1,120,NxF-BE.S-22-Book-120
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,1,2,201,NxF-BE.S-22-Book-201
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,2,2,202,NxF-BE.S-22-Book-202
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,3,2,203,NxF-BE.S-22-Book-203
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,4,2,204,NxF-BE.S-22-Book-204
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,5,2,205,NxF-BE.S-22-Book-205
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,6,2,206,NxF-BE.S-22-Book-206
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,7,2,207,NxF-BE.S-22-Book-207
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,8,2,208,NxF-BE.S-22-Book-208
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,9,2,209,NxF-BE.S-22-Book-209
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,10,2,210,NxF-BE.S-22-Book-210
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,11,2,211,NxF-BE.S-22-Book-211
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,12,2,212,NxF-BE.S-22-Book-212
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,13,2,213,NxF-BE.S-22-Book-213
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,14,2,214,NxF-BE.S-22-Book-214
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,15,2,215,NxF-BE.S-22-Book-215
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,16,2,216,NxF-BE.S-22-Book-216
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,17,2,217,NxF-BE.S-22-Book-217
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,18,2,218,NxF-BE.S-22-Book-218
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,19,2,219,NxF-BE.S-22-Book-219
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,20,2,220,NxF-BE.S-22-Book-220
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,1,3,301,NxF-BE.S-22-Book-301
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,2,3,302,NxF-BE.S-22-Book-302
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,3,3,303,NxF-BE.S-22-Book-303
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,4,3,304,NxF-BE.S-22-Book-304
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,5,3,305,NxF-BE.S-22-Book-305
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,6,3,306,NxF-BE.S-22-Book-306
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,7,3,307,NxF-BE.S-22-Book-307
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,8,3,308,NxF-BE.S-22-Book-308
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,9,3,309,NxF-BE.S-22-Book-309
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,10,3,310,NxF-BE.S-22-Book-310
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,11,3,311,NxF-BE.S-22-Book-311
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,12,3,312,NxF-BE.S-22-Book-312
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,13,3,313,NxF-BE.S-22-Book-313
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,14,3,314,NxF-BE.S-22-Book-314
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,15,3,315,NxF-BE.S-22-Book-315
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,16,3,316,NxF-BE.S-22-Book-316
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,17,3,317,NxF-BE.S-22-Book-317
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,18,3,318,NxF-BE.S-22-Book-318
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,19,3,319,NxF-BE.S-22-Book-319
+5,16,22,Nitrogen x fungicide,NxF,Belleville Soybeans,BE.S,20.0,3.0,60,Book,4.0,NU,20,3,320,NxF-BE.S-22-Book-320
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",1,1,101,PMS-BE.S-22-HI-101
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",2,1,102,PMS-BE.S-22-HI-102
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",3,1,103,PMS-BE.S-22-HI-103
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",4,1,104,PMS-BE.S-22-HI-104
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",5,1,105,PMS-BE.S-22-HI-105
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",6,1,106,PMS-BE.S-22-HI-106
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",1,2,201,PMS-BE.S-22-HI-201
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",2,2,202,PMS-BE.S-22-HI-202
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",3,2,203,PMS-BE.S-22-HI-203
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",4,2,204,PMS-BE.S-22-HI-204
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",5,2,205,PMS-BE.S-22-HI-205
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",6,2,206,PMS-BE.S-22-HI-206
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",1,3,301,PMS-BE.S-22-HI-301
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",2,3,302,PMS-BE.S-22-HI-302
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",3,3,303,PMS-BE.S-22-HI-303
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",4,3,304,PMS-BE.S-22-HI-304
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",5,3,305,PMS-BE.S-22-HI-305
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",6,3,306,PMS-BE.S-22-HI-306
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",1,4,401,PMS-BE.S-22-HI-401
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",2,4,402,PMS-BE.S-22-HI-402
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",3,4,403,PMS-BE.S-22-HI-403
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",4,4,404,PMS-BE.S-22-HI-404
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",5,4,405,PMS-BE.S-22-HI-405
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,HI,6.0,"NU, FS, BS",6,4,406,PMS-BE.S-22-HI-406
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",1,1,101,PMS-BE.S-22-CB-101
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",2,1,102,PMS-BE.S-22-CB-102
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",3,1,103,PMS-BE.S-22-CB-103
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",4,1,104,PMS-BE.S-22-CB-104
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",5,1,105,PMS-BE.S-22-CB-105
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",6,1,106,PMS-BE.S-22-CB-106
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",1,2,201,PMS-BE.S-22-CB-201
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",2,2,202,PMS-BE.S-22-CB-202
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",3,2,203,PMS-BE.S-22-CB-203
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",4,2,204,PMS-BE.S-22-CB-204
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",5,2,205,PMS-BE.S-22-CB-205
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",6,2,206,PMS-BE.S-22-CB-206
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",1,3,301,PMS-BE.S-22-CB-301
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",2,3,302,PMS-BE.S-22-CB-302
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",3,3,303,PMS-BE.S-22-CB-303
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",4,3,304,PMS-BE.S-22-CB-304
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",5,3,305,PMS-BE.S-22-CB-305
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",6,3,306,PMS-BE.S-22-CB-306
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",1,4,401,PMS-BE.S-22-CB-401
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",2,4,402,PMS-BE.S-22-CB-402
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",3,4,403,PMS-BE.S-22-CB-403
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",4,4,404,PMS-BE.S-22-CB-404
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",5,4,405,PMS-BE.S-22-CB-405
+6,17,22,Predictive Model Stripe,PMS,Belleville Soybeans,BE.S,6.0,4.0,24,CB,6.0,"NU, FS, BS",6,4,406,PMS-BE.S-22-CB-406
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",1,1,101,NxF-HOI-23-HI-101
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",2,1,102,NxF-HOI-23-HI-102
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",3,1,103,NxF-HOI-23-HI-103
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",4,1,104,NxF-HOI-23-HI-104
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",5,1,105,NxF-HOI-23-HI-105
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",6,1,106,NxF-HOI-23-HI-106
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",7,1,107,NxF-HOI-23-HI-107
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",8,1,108,NxF-HOI-23-HI-108
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",9,1,109,NxF-HOI-23-HI-109
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",10,1,110,NxF-HOI-23-HI-110
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",11,1,111,NxF-HOI-23-HI-111
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",12,1,112,NxF-HOI-23-HI-112
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",13,1,113,NxF-HOI-23-HI-113
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",14,1,114,NxF-HOI-23-HI-114
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",15,1,115,NxF-HOI-23-HI-115
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",16,1,116,NxF-HOI-23-HI-116
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",17,1,117,NxF-HOI-23-HI-117
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",18,1,118,NxF-HOI-23-HI-118
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",19,1,119,NxF-HOI-23-HI-119
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",20,1,120,NxF-HOI-23-HI-120
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",1,2,201,NxF-HOI-23-HI-201
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",2,2,202,NxF-HOI-23-HI-202
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",3,2,203,NxF-HOI-23-HI-203
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",4,2,204,NxF-HOI-23-HI-204
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",5,2,205,NxF-HOI-23-HI-205
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",6,2,206,NxF-HOI-23-HI-206
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",7,2,207,NxF-HOI-23-HI-207
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",8,2,208,NxF-HOI-23-HI-208
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",9,2,209,NxF-HOI-23-HI-209
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",10,2,210,NxF-HOI-23-HI-210
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",11,2,211,NxF-HOI-23-HI-211
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",12,2,212,NxF-HOI-23-HI-212
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",13,2,213,NxF-HOI-23-HI-213
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",14,2,214,NxF-HOI-23-HI-214
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",15,2,215,NxF-HOI-23-HI-215
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",16,2,216,NxF-HOI-23-HI-216
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",17,2,217,NxF-HOI-23-HI-217
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",18,2,218,NxF-HOI-23-HI-218
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",19,2,219,NxF-HOI-23-HI-219
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",20,2,220,NxF-HOI-23-HI-220
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",1,3,301,NxF-HOI-23-HI-301
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",2,3,302,NxF-HOI-23-HI-302
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",3,3,303,NxF-HOI-23-HI-303
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",4,3,304,NxF-HOI-23-HI-304
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",5,3,305,NxF-HOI-23-HI-305
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",6,3,306,NxF-HOI-23-HI-306
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",7,3,307,NxF-HOI-23-HI-307
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",8,3,308,NxF-HOI-23-HI-308
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",9,3,309,NxF-HOI-23-HI-309
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",10,3,310,NxF-HOI-23-HI-310
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",11,3,311,NxF-HOI-23-HI-311
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",12,3,312,NxF-HOI-23-HI-312
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",13,3,313,NxF-HOI-23-HI-313
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",14,3,314,NxF-HOI-23-HI-314
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",15,3,315,NxF-HOI-23-HI-315
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",16,3,316,NxF-HOI-23-HI-316
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",17,3,317,NxF-HOI-23-HI-317
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",18,3,318,NxF-HOI-23-HI-318
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",19,3,319,NxF-HOI-23-HI-319
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",20,3,320,NxF-HOI-23-HI-320
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",1,4,401,NxF-HOI-23-HI-401
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",2,4,402,NxF-HOI-23-HI-402
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",3,4,403,NxF-HOI-23-HI-403
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",4,4,404,NxF-HOI-23-HI-404
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",5,4,405,NxF-HOI-23-HI-405
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",6,4,406,NxF-HOI-23-HI-406
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",7,4,407,NxF-HOI-23-HI-407
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",8,4,408,NxF-HOI-23-HI-408
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",9,4,409,NxF-HOI-23-HI-409
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",10,4,410,NxF-HOI-23-HI-410
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",11,4,411,NxF-HOI-23-HI-411
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",12,4,412,NxF-HOI-23-HI-412
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",13,4,413,NxF-HOI-23-HI-413
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",14,4,414,NxF-HOI-23-HI-414
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",15,4,415,NxF-HOI-23-HI-415
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",16,4,416,NxF-HOI-23-HI-416
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",17,4,417,NxF-HOI-23-HI-417
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",18,4,418,NxF-HOI-23-HI-418
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",19,4,419,NxF-HOI-23-HI-419
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",20,4,420,NxF-HOI-23-HI-420
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",1,5,501,NxF-HOI-23-HI-501
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",2,5,502,NxF-HOI-23-HI-502
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",3,5,503,NxF-HOI-23-HI-503
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",4,5,504,NxF-HOI-23-HI-504
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",5,5,505,NxF-HOI-23-HI-505
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",6,5,506,NxF-HOI-23-HI-506
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",7,5,507,NxF-HOI-23-HI-507
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",8,5,508,NxF-HOI-23-HI-508
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",9,5,509,NxF-HOI-23-HI-509
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",10,5,510,NxF-HOI-23-HI-510
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",11,5,511,NxF-HOI-23-HI-511
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",12,5,512,NxF-HOI-23-HI-512
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",13,5,513,NxF-HOI-23-HI-513
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",14,5,514,NxF-HOI-23-HI-514
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",15,5,515,NxF-HOI-23-HI-515
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",16,5,516,NxF-HOI-23-HI-516
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",17,5,517,NxF-HOI-23-HI-517
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",18,5,518,NxF-HOI-23-HI-518
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",19,5,519,NxF-HOI-23-HI-519
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,HI,4.0,"NU, FS, BS",20,5,520,NxF-HOI-23-HI-520
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",1,1,101,NxF-HOI-23-CB-101
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",2,1,102,NxF-HOI-23-CB-102
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",3,1,103,NxF-HOI-23-CB-103
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",4,1,104,NxF-HOI-23-CB-104
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",5,1,105,NxF-HOI-23-CB-105
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",6,1,106,NxF-HOI-23-CB-106
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",7,1,107,NxF-HOI-23-CB-107
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",8,1,108,NxF-HOI-23-CB-108
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",9,1,109,NxF-HOI-23-CB-109
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",10,1,110,NxF-HOI-23-CB-110
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",11,1,111,NxF-HOI-23-CB-111
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",12,1,112,NxF-HOI-23-CB-112
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",13,1,113,NxF-HOI-23-CB-113
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",14,1,114,NxF-HOI-23-CB-114
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",15,1,115,NxF-HOI-23-CB-115
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",16,1,116,NxF-HOI-23-CB-116
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",17,1,117,NxF-HOI-23-CB-117
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",18,1,118,NxF-HOI-23-CB-118
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",19,1,119,NxF-HOI-23-CB-119
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",20,1,120,NxF-HOI-23-CB-120
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",1,2,201,NxF-HOI-23-CB-201
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",2,2,202,NxF-HOI-23-CB-202
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",3,2,203,NxF-HOI-23-CB-203
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",4,2,204,NxF-HOI-23-CB-204
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",5,2,205,NxF-HOI-23-CB-205
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",6,2,206,NxF-HOI-23-CB-206
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",7,2,207,NxF-HOI-23-CB-207
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",8,2,208,NxF-HOI-23-CB-208
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",9,2,209,NxF-HOI-23-CB-209
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",10,2,210,NxF-HOI-23-CB-210
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",11,2,211,NxF-HOI-23-CB-211
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",12,2,212,NxF-HOI-23-CB-212
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",13,2,213,NxF-HOI-23-CB-213
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",14,2,214,NxF-HOI-23-CB-214
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",15,2,215,NxF-HOI-23-CB-215
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",16,2,216,NxF-HOI-23-CB-216
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",17,2,217,NxF-HOI-23-CB-217
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",18,2,218,NxF-HOI-23-CB-218
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",19,2,219,NxF-HOI-23-CB-219
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",20,2,220,NxF-HOI-23-CB-220
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",1,3,301,NxF-HOI-23-CB-301
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",2,3,302,NxF-HOI-23-CB-302
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",3,3,303,NxF-HOI-23-CB-303
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",4,3,304,NxF-HOI-23-CB-304
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",5,3,305,NxF-HOI-23-CB-305
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",6,3,306,NxF-HOI-23-CB-306
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",7,3,307,NxF-HOI-23-CB-307
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",8,3,308,NxF-HOI-23-CB-308
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",9,3,309,NxF-HOI-23-CB-309
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",10,3,310,NxF-HOI-23-CB-310
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",11,3,311,NxF-HOI-23-CB-311
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",12,3,312,NxF-HOI-23-CB-312
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",13,3,313,NxF-HOI-23-CB-313
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",14,3,314,NxF-HOI-23-CB-314
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",15,3,315,NxF-HOI-23-CB-315
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",16,3,316,NxF-HOI-23-CB-316
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",17,3,317,NxF-HOI-23-CB-317
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",18,3,318,NxF-HOI-23-CB-318
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",19,3,319,NxF-HOI-23-CB-319
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",20,3,320,NxF-HOI-23-CB-320
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",1,4,401,NxF-HOI-23-CB-401
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",2,4,402,NxF-HOI-23-CB-402
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",3,4,403,NxF-HOI-23-CB-403
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",4,4,404,NxF-HOI-23-CB-404
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",5,4,405,NxF-HOI-23-CB-405
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",6,4,406,NxF-HOI-23-CB-406
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",7,4,407,NxF-HOI-23-CB-407
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",8,4,408,NxF-HOI-23-CB-408
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",9,4,409,NxF-HOI-23-CB-409
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",10,4,410,NxF-HOI-23-CB-410
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",11,4,411,NxF-HOI-23-CB-411
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",12,4,412,NxF-HOI-23-CB-412
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",13,4,413,NxF-HOI-23-CB-413
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",14,4,414,NxF-HOI-23-CB-414
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",15,4,415,NxF-HOI-23-CB-415
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",16,4,416,NxF-HOI-23-CB-416
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",17,4,417,NxF-HOI-23-CB-417
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",18,4,418,NxF-HOI-23-CB-418
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",19,4,419,NxF-HOI-23-CB-419
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",20,4,420,NxF-HOI-23-CB-420
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",1,5,501,NxF-HOI-23-CB-501
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",2,5,502,NxF-HOI-23-CB-502
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",3,5,503,NxF-HOI-23-CB-503
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",4,5,504,NxF-HOI-23-CB-504
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",5,5,505,NxF-HOI-23-CB-505
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",6,5,506,NxF-HOI-23-CB-506
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",7,5,507,NxF-HOI-23-CB-507
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",8,5,508,NxF-HOI-23-CB-508
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",9,5,509,NxF-HOI-23-CB-509
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",10,5,510,NxF-HOI-23-CB-510
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",11,5,511,NxF-HOI-23-CB-511
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",12,5,512,NxF-HOI-23-CB-512
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",13,5,513,NxF-HOI-23-CB-513
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",14,5,514,NxF-HOI-23-CB-514
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",15,5,515,NxF-HOI-23-CB-515
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",16,5,516,NxF-HOI-23-CB-516
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",17,5,517,NxF-HOI-23-CB-517
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",18,5,518,NxF-HOI-23-CB-518
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",19,5,519,NxF-HOI-23-CB-519
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,CB,4.0,"NU, FS, BS",20,5,520,NxF-HOI-23-CB-520
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",1,1,101,NxF-HOI-23-ST-101
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",2,1,102,NxF-HOI-23-ST-102
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",3,1,103,NxF-HOI-23-ST-103
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",4,1,104,NxF-HOI-23-ST-104
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",5,1,105,NxF-HOI-23-ST-105
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",6,1,106,NxF-HOI-23-ST-106
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",7,1,107,NxF-HOI-23-ST-107
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",8,1,108,NxF-HOI-23-ST-108
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",9,1,109,NxF-HOI-23-ST-109
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",10,1,110,NxF-HOI-23-ST-110
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",11,1,111,NxF-HOI-23-ST-111
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",12,1,112,NxF-HOI-23-ST-112
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",13,1,113,NxF-HOI-23-ST-113
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",14,1,114,NxF-HOI-23-ST-114
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",15,1,115,NxF-HOI-23-ST-115
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",16,1,116,NxF-HOI-23-ST-116
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",17,1,117,NxF-HOI-23-ST-117
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",18,1,118,NxF-HOI-23-ST-118
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",19,1,119,NxF-HOI-23-ST-119
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",20,1,120,NxF-HOI-23-ST-120
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",1,2,201,NxF-HOI-23-ST-201
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",2,2,202,NxF-HOI-23-ST-202
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",3,2,203,NxF-HOI-23-ST-203
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",4,2,204,NxF-HOI-23-ST-204
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",5,2,205,NxF-HOI-23-ST-205
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",6,2,206,NxF-HOI-23-ST-206
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",7,2,207,NxF-HOI-23-ST-207
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",8,2,208,NxF-HOI-23-ST-208
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",9,2,209,NxF-HOI-23-ST-209
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",10,2,210,NxF-HOI-23-ST-210
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",11,2,211,NxF-HOI-23-ST-211
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",12,2,212,NxF-HOI-23-ST-212
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",13,2,213,NxF-HOI-23-ST-213
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",14,2,214,NxF-HOI-23-ST-214
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",15,2,215,NxF-HOI-23-ST-215
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",16,2,216,NxF-HOI-23-ST-216
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",17,2,217,NxF-HOI-23-ST-217
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",18,2,218,NxF-HOI-23-ST-218
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",19,2,219,NxF-HOI-23-ST-219
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",20,2,220,NxF-HOI-23-ST-220
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",1,3,301,NxF-HOI-23-ST-301
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",2,3,302,NxF-HOI-23-ST-302
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",3,3,303,NxF-HOI-23-ST-303
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",4,3,304,NxF-HOI-23-ST-304
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",5,3,305,NxF-HOI-23-ST-305
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",6,3,306,NxF-HOI-23-ST-306
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",7,3,307,NxF-HOI-23-ST-307
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",8,3,308,NxF-HOI-23-ST-308
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",9,3,309,NxF-HOI-23-ST-309
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",10,3,310,NxF-HOI-23-ST-310
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",11,3,311,NxF-HOI-23-ST-311
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",12,3,312,NxF-HOI-23-ST-312
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",13,3,313,NxF-HOI-23-ST-313
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",14,3,314,NxF-HOI-23-ST-314
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",15,3,315,NxF-HOI-23-ST-315
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",16,3,316,NxF-HOI-23-ST-316
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",17,3,317,NxF-HOI-23-ST-317
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",18,3,318,NxF-HOI-23-ST-318
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",19,3,319,NxF-HOI-23-ST-319
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",20,3,320,NxF-HOI-23-ST-320
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",1,4,401,NxF-HOI-23-ST-401
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",2,4,402,NxF-HOI-23-ST-402
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",3,4,403,NxF-HOI-23-ST-403
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",4,4,404,NxF-HOI-23-ST-404
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",5,4,405,NxF-HOI-23-ST-405
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",6,4,406,NxF-HOI-23-ST-406
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",7,4,407,NxF-HOI-23-ST-407
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",8,4,408,NxF-HOI-23-ST-408
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",9,4,409,NxF-HOI-23-ST-409
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",10,4,410,NxF-HOI-23-ST-410
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",11,4,411,NxF-HOI-23-ST-411
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",12,4,412,NxF-HOI-23-ST-412
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",13,4,413,NxF-HOI-23-ST-413
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",14,4,414,NxF-HOI-23-ST-414
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",15,4,415,NxF-HOI-23-ST-415
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",16,4,416,NxF-HOI-23-ST-416
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",17,4,417,NxF-HOI-23-ST-417
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",18,4,418,NxF-HOI-23-ST-418
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",19,4,419,NxF-HOI-23-ST-419
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",20,4,420,NxF-HOI-23-ST-420
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",1,5,501,NxF-HOI-23-ST-501
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",2,5,502,NxF-HOI-23-ST-502
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",3,5,503,NxF-HOI-23-ST-503
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",4,5,504,NxF-HOI-23-ST-504
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",5,5,505,NxF-HOI-23-ST-505
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",6,5,506,NxF-HOI-23-ST-506
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",7,5,507,NxF-HOI-23-ST-507
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",8,5,508,NxF-HOI-23-ST-508
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",9,5,509,NxF-HOI-23-ST-509
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",10,5,510,NxF-HOI-23-ST-510
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",11,5,511,NxF-HOI-23-ST-511
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",12,5,512,NxF-HOI-23-ST-512
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",13,5,513,NxF-HOI-23-ST-513
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",14,5,514,NxF-HOI-23-ST-514
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",15,5,515,NxF-HOI-23-ST-515
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",16,5,516,NxF-HOI-23-ST-516
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",17,5,517,NxF-HOI-23-ST-517
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",18,5,518,NxF-HOI-23-ST-518
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",19,5,519,NxF-HOI-23-ST-519
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,ST,4.0,"NU, FS, BS",20,5,520,NxF-HOI-23-ST-520
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",1,1,101,NxF-HOI-23-GR-101
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",2,1,102,NxF-HOI-23-GR-102
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",3,1,103,NxF-HOI-23-GR-103
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",4,1,104,NxF-HOI-23-GR-104
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",5,1,105,NxF-HOI-23-GR-105
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",6,1,106,NxF-HOI-23-GR-106
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",7,1,107,NxF-HOI-23-GR-107
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",8,1,108,NxF-HOI-23-GR-108
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",9,1,109,NxF-HOI-23-GR-109
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",10,1,110,NxF-HOI-23-GR-110
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",11,1,111,NxF-HOI-23-GR-111
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",12,1,112,NxF-HOI-23-GR-112
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",13,1,113,NxF-HOI-23-GR-113
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",14,1,114,NxF-HOI-23-GR-114
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",15,1,115,NxF-HOI-23-GR-115
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",16,1,116,NxF-HOI-23-GR-116
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",17,1,117,NxF-HOI-23-GR-117
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",18,1,118,NxF-HOI-23-GR-118
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",19,1,119,NxF-HOI-23-GR-119
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",20,1,120,NxF-HOI-23-GR-120
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",1,2,201,NxF-HOI-23-GR-201
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",2,2,202,NxF-HOI-23-GR-202
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",3,2,203,NxF-HOI-23-GR-203
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",4,2,204,NxF-HOI-23-GR-204
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",5,2,205,NxF-HOI-23-GR-205
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",6,2,206,NxF-HOI-23-GR-206
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",7,2,207,NxF-HOI-23-GR-207
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",8,2,208,NxF-HOI-23-GR-208
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",9,2,209,NxF-HOI-23-GR-209
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",10,2,210,NxF-HOI-23-GR-210
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",11,2,211,NxF-HOI-23-GR-211
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",12,2,212,NxF-HOI-23-GR-212
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",13,2,213,NxF-HOI-23-GR-213
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",14,2,214,NxF-HOI-23-GR-214
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",15,2,215,NxF-HOI-23-GR-215
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",16,2,216,NxF-HOI-23-GR-216
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",17,2,217,NxF-HOI-23-GR-217
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",18,2,218,NxF-HOI-23-GR-218
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",19,2,219,NxF-HOI-23-GR-219
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",20,2,220,NxF-HOI-23-GR-220
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",1,3,301,NxF-HOI-23-GR-301
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",2,3,302,NxF-HOI-23-GR-302
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",3,3,303,NxF-HOI-23-GR-303
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",4,3,304,NxF-HOI-23-GR-304
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",5,3,305,NxF-HOI-23-GR-305
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",6,3,306,NxF-HOI-23-GR-306
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",7,3,307,NxF-HOI-23-GR-307
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",8,3,308,NxF-HOI-23-GR-308
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",9,3,309,NxF-HOI-23-GR-309
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",10,3,310,NxF-HOI-23-GR-310
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",11,3,311,NxF-HOI-23-GR-311
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",12,3,312,NxF-HOI-23-GR-312
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",13,3,313,NxF-HOI-23-GR-313
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",14,3,314,NxF-HOI-23-GR-314
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",15,3,315,NxF-HOI-23-GR-315
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",16,3,316,NxF-HOI-23-GR-316
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",17,3,317,NxF-HOI-23-GR-317
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",18,3,318,NxF-HOI-23-GR-318
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",19,3,319,NxF-HOI-23-GR-319
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",20,3,320,NxF-HOI-23-GR-320
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",1,4,401,NxF-HOI-23-GR-401
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",2,4,402,NxF-HOI-23-GR-402
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",3,4,403,NxF-HOI-23-GR-403
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",4,4,404,NxF-HOI-23-GR-404
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",5,4,405,NxF-HOI-23-GR-405
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",6,4,406,NxF-HOI-23-GR-406
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",7,4,407,NxF-HOI-23-GR-407
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",8,4,408,NxF-HOI-23-GR-408
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",9,4,409,NxF-HOI-23-GR-409
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",10,4,410,NxF-HOI-23-GR-410
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",11,4,411,NxF-HOI-23-GR-411
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",12,4,412,NxF-HOI-23-GR-412
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",13,4,413,NxF-HOI-23-GR-413
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",14,4,414,NxF-HOI-23-GR-414
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",15,4,415,NxF-HOI-23-GR-415
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",16,4,416,NxF-HOI-23-GR-416
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",17,4,417,NxF-HOI-23-GR-417
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",18,4,418,NxF-HOI-23-GR-418
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",19,4,419,NxF-HOI-23-GR-419
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",20,4,420,NxF-HOI-23-GR-420
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",1,5,501,NxF-HOI-23-GR-501
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",2,5,502,NxF-HOI-23-GR-502
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",3,5,503,NxF-HOI-23-GR-503
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",4,5,504,NxF-HOI-23-GR-504
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",5,5,505,NxF-HOI-23-GR-505
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",6,5,506,NxF-HOI-23-GR-506
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",7,5,507,NxF-HOI-23-GR-507
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",8,5,508,NxF-HOI-23-GR-508
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",9,5,509,NxF-HOI-23-GR-509
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",10,5,510,NxF-HOI-23-GR-510
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",11,5,511,NxF-HOI-23-GR-511
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",12,5,512,NxF-HOI-23-GR-512
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",13,5,513,NxF-HOI-23-GR-513
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",14,5,514,NxF-HOI-23-GR-514
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",15,5,515,NxF-HOI-23-GR-515
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",16,5,516,NxF-HOI-23-GR-516
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",17,5,517,NxF-HOI-23-GR-517
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",18,5,518,NxF-HOI-23-GR-518
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",19,5,519,NxF-HOI-23-GR-519
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,GR,4.0,"NU, FS, BS",20,5,520,NxF-HOI-23-GR-520
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",1,1,101,NxF-HOI-23-Book-101
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",2,1,102,NxF-HOI-23-Book-102
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",3,1,103,NxF-HOI-23-Book-103
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",4,1,104,NxF-HOI-23-Book-104
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",5,1,105,NxF-HOI-23-Book-105
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",6,1,106,NxF-HOI-23-Book-106
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",7,1,107,NxF-HOI-23-Book-107
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",8,1,108,NxF-HOI-23-Book-108
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",9,1,109,NxF-HOI-23-Book-109
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",10,1,110,NxF-HOI-23-Book-110
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",11,1,111,NxF-HOI-23-Book-111
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",12,1,112,NxF-HOI-23-Book-112
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",13,1,113,NxF-HOI-23-Book-113
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",14,1,114,NxF-HOI-23-Book-114
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",15,1,115,NxF-HOI-23-Book-115
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",16,1,116,NxF-HOI-23-Book-116
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",17,1,117,NxF-HOI-23-Book-117
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",18,1,118,NxF-HOI-23-Book-118
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",19,1,119,NxF-HOI-23-Book-119
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",20,1,120,NxF-HOI-23-Book-120
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",1,2,201,NxF-HOI-23-Book-201
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",2,2,202,NxF-HOI-23-Book-202
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",3,2,203,NxF-HOI-23-Book-203
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",4,2,204,NxF-HOI-23-Book-204
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",5,2,205,NxF-HOI-23-Book-205
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",6,2,206,NxF-HOI-23-Book-206
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",7,2,207,NxF-HOI-23-Book-207
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",8,2,208,NxF-HOI-23-Book-208
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",9,2,209,NxF-HOI-23-Book-209
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",10,2,210,NxF-HOI-23-Book-210
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",11,2,211,NxF-HOI-23-Book-211
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",12,2,212,NxF-HOI-23-Book-212
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",13,2,213,NxF-HOI-23-Book-213
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",14,2,214,NxF-HOI-23-Book-214
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",15,2,215,NxF-HOI-23-Book-215
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",16,2,216,NxF-HOI-23-Book-216
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",17,2,217,NxF-HOI-23-Book-217
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",18,2,218,NxF-HOI-23-Book-218
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",19,2,219,NxF-HOI-23-Book-219
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",20,2,220,NxF-HOI-23-Book-220
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",1,3,301,NxF-HOI-23-Book-301
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",2,3,302,NxF-HOI-23-Book-302
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",3,3,303,NxF-HOI-23-Book-303
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",4,3,304,NxF-HOI-23-Book-304
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",5,3,305,NxF-HOI-23-Book-305
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",6,3,306,NxF-HOI-23-Book-306
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",7,3,307,NxF-HOI-23-Book-307
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",8,3,308,NxF-HOI-23-Book-308
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",9,3,309,NxF-HOI-23-Book-309
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",10,3,310,NxF-HOI-23-Book-310
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",11,3,311,NxF-HOI-23-Book-311
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",12,3,312,NxF-HOI-23-Book-312
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",13,3,313,NxF-HOI-23-Book-313
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",14,3,314,NxF-HOI-23-Book-314
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",15,3,315,NxF-HOI-23-Book-315
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",16,3,316,NxF-HOI-23-Book-316
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",17,3,317,NxF-HOI-23-Book-317
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",18,3,318,NxF-HOI-23-Book-318
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",19,3,319,NxF-HOI-23-Book-319
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",20,3,320,NxF-HOI-23-Book-320
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",1,4,401,NxF-HOI-23-Book-401
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",2,4,402,NxF-HOI-23-Book-402
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",3,4,403,NxF-HOI-23-Book-403
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",4,4,404,NxF-HOI-23-Book-404
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",5,4,405,NxF-HOI-23-Book-405
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",6,4,406,NxF-HOI-23-Book-406
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",7,4,407,NxF-HOI-23-Book-407
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",8,4,408,NxF-HOI-23-Book-408
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",9,4,409,NxF-HOI-23-Book-409
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",10,4,410,NxF-HOI-23-Book-410
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",11,4,411,NxF-HOI-23-Book-411
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",12,4,412,NxF-HOI-23-Book-412
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",13,4,413,NxF-HOI-23-Book-413
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",14,4,414,NxF-HOI-23-Book-414
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",15,4,415,NxF-HOI-23-Book-415
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",16,4,416,NxF-HOI-23-Book-416
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",17,4,417,NxF-HOI-23-Book-417
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",18,4,418,NxF-HOI-23-Book-418
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",19,4,419,NxF-HOI-23-Book-419
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",20,4,420,NxF-HOI-23-Book-420
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",1,5,501,NxF-HOI-23-Book-501
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",2,5,502,NxF-HOI-23-Book-502
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",3,5,503,NxF-HOI-23-Book-503
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",4,5,504,NxF-HOI-23-Book-504
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",5,5,505,NxF-HOI-23-Book-505
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",6,5,506,NxF-HOI-23-Book-506
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",7,5,507,NxF-HOI-23-Book-507
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",8,5,508,NxF-HOI-23-Book-508
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",9,5,509,NxF-HOI-23-Book-509
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",10,5,510,NxF-HOI-23-Book-510
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",11,5,511,NxF-HOI-23-Book-511
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",12,5,512,NxF-HOI-23-Book-512
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",13,5,513,NxF-HOI-23-Book-513
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",14,5,514,NxF-HOI-23-Book-514
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",15,5,515,NxF-HOI-23-Book-515
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",16,5,516,NxF-HOI-23-Book-516
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",17,5,517,NxF-HOI-23-Book-517
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",18,5,518,NxF-HOI-23-Book-518
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",19,5,519,NxF-HOI-23-Book-519
+7,158,23,Nitrogen x fungicide,NxF,Hoisington,HOI,20.0,5.0,100,Book,4.0,"NU, FS, BS",20,5,520,NxF-HOI-23-Book-520
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",1,1,101,SP-HOI-23-CB-101
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",2,1,102,SP-HOI-23-CB-102
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",3,1,103,SP-HOI-23-CB-103
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",1,2,201,SP-HOI-23-CB-201
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",2,2,202,SP-HOI-23-CB-202
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",3,2,203,SP-HOI-23-CB-203
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",1,3,301,SP-HOI-23-CB-301
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",2,3,302,SP-HOI-23-CB-302
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",3,3,303,SP-HOI-23-CB-303
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",1,4,401,SP-HOI-23-CB-401
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",2,4,402,SP-HOI-23-CB-402
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",3,4,403,SP-HOI-23-CB-403
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",1,5,501,SP-HOI-23-CB-501
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",2,5,502,SP-HOI-23-CB-502
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,CB,5.0,"NU, FS, BS",3,5,503,SP-HOI-23-CB-503
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",1,1,101,SP-HOI-23-HI-101
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",2,1,102,SP-HOI-23-HI-102
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",3,1,103,SP-HOI-23-HI-103
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",1,2,201,SP-HOI-23-HI-201
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",2,2,202,SP-HOI-23-HI-202
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",3,2,203,SP-HOI-23-HI-203
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",1,3,301,SP-HOI-23-HI-301
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",2,3,302,SP-HOI-23-HI-302
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",3,3,303,SP-HOI-23-HI-303
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",1,4,401,SP-HOI-23-HI-401
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",2,4,402,SP-HOI-23-HI-402
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",3,4,403,SP-HOI-23-HI-403
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",1,5,501,SP-HOI-23-HI-501
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",2,5,502,SP-HOI-23-HI-502
+8,159,23,S presence,SP,Hoisington,HOI,3.0,5.0,15,HI,5.0,"NU, FS, BS",3,5,503,SP-HOI-23-HI-503
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",1,1,101,SAN-HOI-23-Book-101
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",2,1,102,SAN-HOI-23-Book-102
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",3,1,103,SAN-HOI-23-Book-103
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",4,1,104,SAN-HOI-23-Book-104
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",5,1,105,SAN-HOI-23-Book-105
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",6,1,106,SAN-HOI-23-Book-106
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",7,1,107,SAN-HOI-23-Book-107
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",8,1,108,SAN-HOI-23-Book-108
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",1,2,201,SAN-HOI-23-Book-201
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",2,2,202,SAN-HOI-23-Book-202
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",3,2,203,SAN-HOI-23-Book-203
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",4,2,204,SAN-HOI-23-Book-204
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",5,2,205,SAN-HOI-23-Book-205
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",6,2,206,SAN-HOI-23-Book-206
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",7,2,207,SAN-HOI-23-Book-207
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",8,2,208,SAN-HOI-23-Book-208
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",1,3,301,SAN-HOI-23-Book-301
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",2,3,302,SAN-HOI-23-Book-302
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",3,3,303,SAN-HOI-23-Book-303
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",4,3,304,SAN-HOI-23-Book-304
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",5,3,305,SAN-HOI-23-Book-305
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",6,3,306,SAN-HOI-23-Book-306
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",7,3,307,SAN-HOI-23-Book-307
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",8,3,308,SAN-HOI-23-Book-308
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",1,4,401,SAN-HOI-23-Book-401
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",2,4,402,SAN-HOI-23-Book-402
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",3,4,403,SAN-HOI-23-Book-403
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",4,4,404,SAN-HOI-23-Book-404
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",5,4,405,SAN-HOI-23-Book-405
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",6,4,406,SAN-HOI-23-Book-406
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",7,4,407,SAN-HOI-23-Book-407
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",8,4,408,SAN-HOI-23-Book-408
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",1,5,501,SAN-HOI-23-Book-501
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",2,5,502,SAN-HOI-23-Book-502
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",3,5,503,SAN-HOI-23-Book-503
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",4,5,504,SAN-HOI-23-Book-504
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",5,5,505,SAN-HOI-23-Book-505
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",6,5,506,SAN-HOI-23-Book-506
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",7,5,507,SAN-HOI-23-Book-507
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,Book,25.0,"NU, FS, BS",8,5,508,SAN-HOI-23-Book-508
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",1,1,101,SAN-HOI-23-CB-101
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",2,1,102,SAN-HOI-23-CB-102
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",3,1,103,SAN-HOI-23-CB-103
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",4,1,104,SAN-HOI-23-CB-104
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",5,1,105,SAN-HOI-23-CB-105
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",6,1,106,SAN-HOI-23-CB-106
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",7,1,107,SAN-HOI-23-CB-107
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",8,1,108,SAN-HOI-23-CB-108
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",1,2,201,SAN-HOI-23-CB-201
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",2,2,202,SAN-HOI-23-CB-202
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",3,2,203,SAN-HOI-23-CB-203
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",4,2,204,SAN-HOI-23-CB-204
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",5,2,205,SAN-HOI-23-CB-205
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",6,2,206,SAN-HOI-23-CB-206
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",7,2,207,SAN-HOI-23-CB-207
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",8,2,208,SAN-HOI-23-CB-208
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",1,3,301,SAN-HOI-23-CB-301
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",2,3,302,SAN-HOI-23-CB-302
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",3,3,303,SAN-HOI-23-CB-303
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",4,3,304,SAN-HOI-23-CB-304
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",5,3,305,SAN-HOI-23-CB-305
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",6,3,306,SAN-HOI-23-CB-306
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",7,3,307,SAN-HOI-23-CB-307
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",8,3,308,SAN-HOI-23-CB-308
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",1,4,401,SAN-HOI-23-CB-401
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",2,4,402,SAN-HOI-23-CB-402
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",3,4,403,SAN-HOI-23-CB-403
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",4,4,404,SAN-HOI-23-CB-404
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",5,4,405,SAN-HOI-23-CB-405
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",6,4,406,SAN-HOI-23-CB-406
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",7,4,407,SAN-HOI-23-CB-407
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",8,4,408,SAN-HOI-23-CB-408
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",1,5,501,SAN-HOI-23-CB-501
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",2,5,502,SAN-HOI-23-CB-502
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",3,5,503,SAN-HOI-23-CB-503
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",4,5,504,SAN-HOI-23-CB-504
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",5,5,505,SAN-HOI-23-CB-505
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",6,5,506,SAN-HOI-23-CB-506
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",7,5,507,SAN-HOI-23-CB-507
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,CB,25.0,"NU, FS, BS",8,5,508,SAN-HOI-23-CB-508
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",1,1,101,SAN-HOI-23-HI-101
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",2,1,102,SAN-HOI-23-HI-102
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",3,1,103,SAN-HOI-23-HI-103
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",4,1,104,SAN-HOI-23-HI-104
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",5,1,105,SAN-HOI-23-HI-105
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",6,1,106,SAN-HOI-23-HI-106
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",7,1,107,SAN-HOI-23-HI-107
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",8,1,108,SAN-HOI-23-HI-108
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",1,2,201,SAN-HOI-23-HI-201
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",2,2,202,SAN-HOI-23-HI-202
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",3,2,203,SAN-HOI-23-HI-203
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",4,2,204,SAN-HOI-23-HI-204
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",5,2,205,SAN-HOI-23-HI-205
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",6,2,206,SAN-HOI-23-HI-206
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",7,2,207,SAN-HOI-23-HI-207
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",8,2,208,SAN-HOI-23-HI-208
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",1,3,301,SAN-HOI-23-HI-301
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",2,3,302,SAN-HOI-23-HI-302
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",3,3,303,SAN-HOI-23-HI-303
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",4,3,304,SAN-HOI-23-HI-304
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",5,3,305,SAN-HOI-23-HI-305
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",6,3,306,SAN-HOI-23-HI-306
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",7,3,307,SAN-HOI-23-HI-307
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",8,3,308,SAN-HOI-23-HI-308
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",1,4,401,SAN-HOI-23-HI-401
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",2,4,402,SAN-HOI-23-HI-402
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",3,4,403,SAN-HOI-23-HI-403
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",4,4,404,SAN-HOI-23-HI-404
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",5,4,405,SAN-HOI-23-HI-405
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",6,4,406,SAN-HOI-23-HI-406
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",7,4,407,SAN-HOI-23-HI-407
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",8,4,408,SAN-HOI-23-HI-408
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",1,5,501,SAN-HOI-23-HI-501
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",2,5,502,SAN-HOI-23-HI-502
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",3,5,503,SAN-HOI-23-HI-503
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",4,5,504,SAN-HOI-23-HI-504
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",5,5,505,SAN-HOI-23-HI-505
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",6,5,506,SAN-HOI-23-HI-506
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",7,5,507,SAN-HOI-23-HI-507
+9,160,23,Sanovita,SAN,Hoisington,HOI,8.0,5.0,40,HI,25.0,"NU, FS, BS",8,5,508,SAN-HOI-23-HI-508
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,1,1,101,N4R-BE.S-24-PS-101
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,2,1,102,N4R-BE.S-24-PS-102
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,3,1,103,N4R-BE.S-24-PS-103
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,4,1,104,N4R-BE.S-24-PS-104
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,5,1,105,N4R-BE.S-24-PS-105
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,6,1,106,N4R-BE.S-24-PS-106
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,7,1,107,N4R-BE.S-24-PS-107
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,8,1,108,N4R-BE.S-24-PS-108
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,9,1,109,N4R-BE.S-24-PS-109
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,10,1,110,N4R-BE.S-24-PS-110
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,11,1,111,N4R-BE.S-24-PS-111
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,12,1,112,N4R-BE.S-24-PS-112
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,1,2,201,N4R-BE.S-24-PS-201
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,2,2,202,N4R-BE.S-24-PS-202
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,3,2,203,N4R-BE.S-24-PS-203
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,4,2,204,N4R-BE.S-24-PS-204
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,5,2,205,N4R-BE.S-24-PS-205
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,6,2,206,N4R-BE.S-24-PS-206
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,7,2,207,N4R-BE.S-24-PS-207
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,8,2,208,N4R-BE.S-24-PS-208
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,9,2,209,N4R-BE.S-24-PS-209
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,10,2,210,N4R-BE.S-24-PS-210
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,11,2,211,N4R-BE.S-24-PS-211
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,12,2,212,N4R-BE.S-24-PS-212
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,1,3,301,N4R-BE.S-24-PS-301
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,2,3,302,N4R-BE.S-24-PS-302
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,3,3,303,N4R-BE.S-24-PS-303
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,4,3,304,N4R-BE.S-24-PS-304
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,5,3,305,N4R-BE.S-24-PS-305
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,6,3,306,N4R-BE.S-24-PS-306
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,7,3,307,N4R-BE.S-24-PS-307
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,8,3,308,N4R-BE.S-24-PS-308
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,9,3,309,N4R-BE.S-24-PS-309
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,10,3,310,N4R-BE.S-24-PS-310
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,11,3,311,N4R-BE.S-24-PS-311
+10,232,24,N4R management,N4R,Belleville Soybeans,BE.S,12.0,3.0,36,PS,36.0,NU,12,3,312,N4R-BE.S-24-PS-312
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",1,1,101,NxV-BE.S-24-PS-101
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",2,1,102,NxV-BE.S-24-PS-102
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",3,1,103,NxV-BE.S-24-PS-103
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",4,1,104,NxV-BE.S-24-PS-104
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",5,1,105,NxV-BE.S-24-PS-105
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",6,1,106,NxV-BE.S-24-PS-106
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",7,1,107,NxV-BE.S-24-PS-107
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",8,1,108,NxV-BE.S-24-PS-108
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",9,1,109,NxV-BE.S-24-PS-109
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",10,1,110,NxV-BE.S-24-PS-110
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",11,1,111,NxV-BE.S-24-PS-111
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",12,1,112,NxV-BE.S-24-PS-112
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",13,1,113,NxV-BE.S-24-PS-113
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",14,1,114,NxV-BE.S-24-PS-114
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",15,1,115,NxV-BE.S-24-PS-115
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",16,1,116,NxV-BE.S-24-PS-116
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",17,1,117,NxV-BE.S-24-PS-117
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",18,1,118,NxV-BE.S-24-PS-118
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",19,1,119,NxV-BE.S-24-PS-119
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",20,1,120,NxV-BE.S-24-PS-120
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",21,1,121,NxV-BE.S-24-PS-121
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",22,1,122,NxV-BE.S-24-PS-122
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",23,1,123,NxV-BE.S-24-PS-123
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",24,1,124,NxV-BE.S-24-PS-124
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",25,1,125,NxV-BE.S-24-PS-125
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",26,1,126,NxV-BE.S-24-PS-126
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",27,1,127,NxV-BE.S-24-PS-127
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",28,1,128,NxV-BE.S-24-PS-128
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",29,1,129,NxV-BE.S-24-PS-129
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",30,1,130,NxV-BE.S-24-PS-130
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",31,1,131,NxV-BE.S-24-PS-131
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",32,1,132,NxV-BE.S-24-PS-132
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",33,1,133,NxV-BE.S-24-PS-133
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",34,1,134,NxV-BE.S-24-PS-134
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",35,1,135,NxV-BE.S-24-PS-135
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",36,1,136,NxV-BE.S-24-PS-136
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",37,1,137,NxV-BE.S-24-PS-137
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",38,1,138,NxV-BE.S-24-PS-138
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",39,1,139,NxV-BE.S-24-PS-139
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",40,1,140,NxV-BE.S-24-PS-140
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",41,1,141,NxV-BE.S-24-PS-141
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",42,1,142,NxV-BE.S-24-PS-142
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",43,1,143,NxV-BE.S-24-PS-143
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",44,1,144,NxV-BE.S-24-PS-144
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",45,1,145,NxV-BE.S-24-PS-145
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",46,1,146,NxV-BE.S-24-PS-146
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",47,1,147,NxV-BE.S-24-PS-147
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",48,1,148,NxV-BE.S-24-PS-148
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",49,1,149,NxV-BE.S-24-PS-149
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",50,1,150,NxV-BE.S-24-PS-150
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",51,1,151,NxV-BE.S-24-PS-151
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",52,1,152,NxV-BE.S-24-PS-152
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",53,1,153,NxV-BE.S-24-PS-153
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",54,1,154,NxV-BE.S-24-PS-154
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",55,1,155,NxV-BE.S-24-PS-155
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",56,1,156,NxV-BE.S-24-PS-156
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",1,2,201,NxV-BE.S-24-PS-201
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",2,2,202,NxV-BE.S-24-PS-202
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",3,2,203,NxV-BE.S-24-PS-203
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",4,2,204,NxV-BE.S-24-PS-204
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",5,2,205,NxV-BE.S-24-PS-205
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",6,2,206,NxV-BE.S-24-PS-206
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",7,2,207,NxV-BE.S-24-PS-207
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",8,2,208,NxV-BE.S-24-PS-208
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",9,2,209,NxV-BE.S-24-PS-209
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",10,2,210,NxV-BE.S-24-PS-210
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",11,2,211,NxV-BE.S-24-PS-211
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",12,2,212,NxV-BE.S-24-PS-212
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",13,2,213,NxV-BE.S-24-PS-213
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",14,2,214,NxV-BE.S-24-PS-214
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",15,2,215,NxV-BE.S-24-PS-215
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",16,2,216,NxV-BE.S-24-PS-216
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",17,2,217,NxV-BE.S-24-PS-217
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",18,2,218,NxV-BE.S-24-PS-218
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",19,2,219,NxV-BE.S-24-PS-219
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",20,2,220,NxV-BE.S-24-PS-220
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",21,2,221,NxV-BE.S-24-PS-221
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",22,2,222,NxV-BE.S-24-PS-222
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",23,2,223,NxV-BE.S-24-PS-223
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",24,2,224,NxV-BE.S-24-PS-224
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",25,2,225,NxV-BE.S-24-PS-225
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",26,2,226,NxV-BE.S-24-PS-226
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",27,2,227,NxV-BE.S-24-PS-227
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",28,2,228,NxV-BE.S-24-PS-228
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",29,2,229,NxV-BE.S-24-PS-229
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",30,2,230,NxV-BE.S-24-PS-230
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",31,2,231,NxV-BE.S-24-PS-231
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",32,2,232,NxV-BE.S-24-PS-232
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",33,2,233,NxV-BE.S-24-PS-233
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",34,2,234,NxV-BE.S-24-PS-234
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",35,2,235,NxV-BE.S-24-PS-235
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",36,2,236,NxV-BE.S-24-PS-236
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",37,2,237,NxV-BE.S-24-PS-237
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",38,2,238,NxV-BE.S-24-PS-238
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",39,2,239,NxV-BE.S-24-PS-239
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",40,2,240,NxV-BE.S-24-PS-240
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",41,2,241,NxV-BE.S-24-PS-241
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",42,2,242,NxV-BE.S-24-PS-242
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",43,2,243,NxV-BE.S-24-PS-243
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",44,2,244,NxV-BE.S-24-PS-244
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",45,2,245,NxV-BE.S-24-PS-245
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",46,2,246,NxV-BE.S-24-PS-246
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",47,2,247,NxV-BE.S-24-PS-247
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",48,2,248,NxV-BE.S-24-PS-248
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",49,2,249,NxV-BE.S-24-PS-249
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",50,2,250,NxV-BE.S-24-PS-250
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",51,2,251,NxV-BE.S-24-PS-251
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",52,2,252,NxV-BE.S-24-PS-252
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",53,2,253,NxV-BE.S-24-PS-253
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",54,2,254,NxV-BE.S-24-PS-254
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",55,2,255,NxV-BE.S-24-PS-255
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",56,2,256,NxV-BE.S-24-PS-256
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",1,3,301,NxV-BE.S-24-PS-301
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",2,3,302,NxV-BE.S-24-PS-302
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",3,3,303,NxV-BE.S-24-PS-303
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",4,3,304,NxV-BE.S-24-PS-304
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",5,3,305,NxV-BE.S-24-PS-305
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",6,3,306,NxV-BE.S-24-PS-306
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",7,3,307,NxV-BE.S-24-PS-307
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",8,3,308,NxV-BE.S-24-PS-308
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",9,3,309,NxV-BE.S-24-PS-309
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",10,3,310,NxV-BE.S-24-PS-310
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",11,3,311,NxV-BE.S-24-PS-311
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",12,3,312,NxV-BE.S-24-PS-312
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",13,3,313,NxV-BE.S-24-PS-313
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",14,3,314,NxV-BE.S-24-PS-314
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",15,3,315,NxV-BE.S-24-PS-315
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",16,3,316,NxV-BE.S-24-PS-316
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",17,3,317,NxV-BE.S-24-PS-317
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",18,3,318,NxV-BE.S-24-PS-318
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",19,3,319,NxV-BE.S-24-PS-319
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",20,3,320,NxV-BE.S-24-PS-320
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",21,3,321,NxV-BE.S-24-PS-321
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",22,3,322,NxV-BE.S-24-PS-322
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",23,3,323,NxV-BE.S-24-PS-323
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",24,3,324,NxV-BE.S-24-PS-324
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",25,3,325,NxV-BE.S-24-PS-325
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",26,3,326,NxV-BE.S-24-PS-326
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",27,3,327,NxV-BE.S-24-PS-327
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",28,3,328,NxV-BE.S-24-PS-328
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",29,3,329,NxV-BE.S-24-PS-329
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",30,3,330,NxV-BE.S-24-PS-330
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",31,3,331,NxV-BE.S-24-PS-331
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",32,3,332,NxV-BE.S-24-PS-332
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",33,3,333,NxV-BE.S-24-PS-333
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",34,3,334,NxV-BE.S-24-PS-334
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",35,3,335,NxV-BE.S-24-PS-335
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",36,3,336,NxV-BE.S-24-PS-336
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",37,3,337,NxV-BE.S-24-PS-337
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",38,3,338,NxV-BE.S-24-PS-338
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",39,3,339,NxV-BE.S-24-PS-339
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",40,3,340,NxV-BE.S-24-PS-340
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",41,3,341,NxV-BE.S-24-PS-341
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",42,3,342,NxV-BE.S-24-PS-342
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",43,3,343,NxV-BE.S-24-PS-343
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",44,3,344,NxV-BE.S-24-PS-344
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",45,3,345,NxV-BE.S-24-PS-345
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",46,3,346,NxV-BE.S-24-PS-346
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",47,3,347,NxV-BE.S-24-PS-347
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",48,3,348,NxV-BE.S-24-PS-348
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",49,3,349,NxV-BE.S-24-PS-349
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",50,3,350,NxV-BE.S-24-PS-350
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",51,3,351,NxV-BE.S-24-PS-351
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",52,3,352,NxV-BE.S-24-PS-352
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",53,3,353,NxV-BE.S-24-PS-353
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",54,3,354,NxV-BE.S-24-PS-354
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",55,3,355,NxV-BE.S-24-PS-355
+11,233,24,Nitrogen x Variety,NxV,Belleville Soybeans,BE.S,56.0,3.0,168,PS,37.0,"NU, FS, BS",56,3,356,NxV-BE.S-24-PS-356
