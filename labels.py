@@ -37,14 +37,21 @@ def app():
 
     if os.path.isfile('labels.csv'):
         labels = pd.read_csv('labels.csv')
-        STAGE = st.multiselect('Targeted crop stage to sample?',
-                               labels['SAMPLING'].unique())  
-
-        LOCATION = st.multiselect('LOCATION', labels['LOC_SHORT'].unique())
-        TRIAL = st.multiselect('TRIAL', labels['TRIAL_SHORT'].unique())
-        YEAR = st.multiselect('YEAR', labels['YEAR'].unique())
-
-        SIZE = st.multiselect('Size to Print', ['BIG', 'SMALL'])
+        
+        col1, col2, col3, col4, col5 = st.columns(5)
+        
+        with col1:
+            STAGE = st.multiselect('Sampling at?',
+                                   labels['SAMPLING'].unique())  
+        with col2:
+            LOCATION = st.multiselect('LOCATION', labels['LOC_SHORT'].unique())
+        with col3:
+            TRIAL = st.multiselect('TRIAL', labels['TRIAL_SHORT'].unique())
+        with col4: 
+            YEAR = st.multiselect('YEAR', labels['YEAR'].unique())
+        with col5:
+            SIZE = st.multiselect('Size to Print', ['BIG', 'SMALL'])
+            
         FILENAME = st.text_input('FILE NAME')
 
         idx = labels['SAMPLING'].isin(STAGE) & labels['LOC_SHORT'].isin(LOCATION) & labels['TRIAL_SHORT'].isin(TRIAL) & labels['YEAR'].isin(YEAR)

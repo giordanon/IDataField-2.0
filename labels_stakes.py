@@ -3,13 +3,8 @@ import pandas as pd
 import numpy as np
 #Directories management 
 import os as os
-# QR code libraries
-import qrcode, time
-#PDF Libraries
-from reportlab.lib.units import inch
-from reportlab.pdfgen import canvas
-from PyPDF2 import PdfReader, PdfWriter
 import streamlit as st
+import functions as fx
 
 def app():
     st.title('Stakes Labels Generator App')
@@ -40,33 +35,23 @@ def app():
     
     if st.button('GENERATE STAKES LABELS'):  
 
-        data = data.dropna().reset_index()
-        data['SAMPLING'] = data['SAMPLING'].str.replace(' ', '').str.split(pat = ",",  expand = False)
-        data['Trt1'] = pd.Series(dtype = 'object')
-        data['Rep1'] = pd.Series(dtype = 'object')
-        
-        for k,row in data.iterrows():
-            data.at[k,'Trt1'] = np.arange(1,int(data.at[k,'Trt'])+1)
-            data.at[k,'Rep1'] = np.arange(1,int(data.at[k,'Reps'])+1)
-            
-        df = data.explode('SAMPLING').explode('Rep1').explode('Trt1')
-        df['Plot'] = df['Rep1']*100 + df['Trt1']
-        df['LABEL'] = df['TRIAL_SHORT'].astype(str) + '-' + df['LOC_SHORT'].astype(str) + '-' + df['YEAR'].astype(str) + '-' + df['SAMPLING'].astype(str) + '-' + df['Plot'].astype(str)
-        df = df.reset_index()        
+        df = fx.explode_plot_labels(data)
         st.dataframe(df)
-
-        
         df.to_csv("labels.csv", index = False)    
         
     
     if os.path.isfile('labels.csv'): 
         labels = pd.read_csv('labels.csv')
         os.remove('labels.csv')
-        #LOCATION = st.multiselect('LOCATION', labels['LOC_SHORT'].unique())
-        TRIAL = st.multiselect('TRIAL', labels['TRIAL_SHORT'].unique())
-        YEAR = st.multiselect('YEAR', labels['YEAR'].unique())
-
-        FILENAME = st.text_input('FILE NAME')
+        
+        col1, col2, col3 = st.columns(3)
+        
+        with col1:
+            TRIAL = st.multiselect('TRIAL', labels['TRIAL_SHORT'].unique())
+        with col2:
+            YEAR = st.multiselect('YEAR', labels['YEAR'].unique())
+        with col3:
+            FILENAME = st.text_input('FILE NAME')
     
         idx = labels['TRIAL_SHORT'].isin(TRIAL) & labels['YEAR'].isin(YEAR)
         #idx = labels['LOC_SHORT'].isin(LOCATION) & labels['YEAR'].isin(YEAR)
