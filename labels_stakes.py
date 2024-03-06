@@ -26,19 +26,17 @@ def app():
             data = pd.read_excel(uploaded_file)
 
         st.dataframe(data.head())
-
-    # Create the directory   
-    if uploaded_file:
         YEAR = st.multiselect('SEASON', data['YEAR'].unique())   
+                        
+        # Create the directory
+        if YEAR: 
+            YEAR = YEAR[0]    
+            prev_year = 2000 + int(YEAR) - 1
+            year_folder = f'SEASON {prev_year}-{YEAR}'
+            out_filepath = f'../{year_folder}/02-Labels/'
         
-    if YEAR: 
-        YEAR = YEAR[0]    
-        prev_year = 2000 + int(YEAR) - 1
-        year_folder = f'SEASON {prev_year}-{YEAR}'
-        out_filepath = f'../{year_folder}/02-Labels/'
-        
-    if not os.path.exists(out_filepath):
-        os.makedirs(out_filepath)
+            if not os.path.exists(out_filepath):
+                os.makedirs(out_filepath)
     
     if st.button('GENERATE STAKES LABELS'):  
 
@@ -58,20 +56,21 @@ def app():
         st.dataframe(df)
 
         
-        df.to_csv(f"{out_filepath}labels.csv", index = False)    
+        df.to_csv("labels.csv", index = False)    
         
     
-      
-    labels = pd.read_csv(f'{out_filepath}labels.csv')
-    #LOCATION = st.multiselect('LOCATION', labels['LOC_SHORT'].unique())
-    TRIAL = st.multiselect('TRIAL', labels['TRIAL_SHORT'].unique())
-    YEAR = st.multiselect('YEAR', labels['YEAR'].unique())
+    if os.path.isfile('labels.csv'): 
+        labels = pd.read_csv('labels.csv')
+        os.remove('labels.csv')
+        #LOCATION = st.multiselect('LOCATION', labels['LOC_SHORT'].unique())
+        TRIAL = st.multiselect('TRIAL', labels['TRIAL_SHORT'].unique())
+        YEAR = st.multiselect('YEAR', labels['YEAR'].unique())
 
-    FILENAME = st.text_input('FILE NAME')
+        FILENAME = st.text_input('FILE NAME')
     
-    idx = labels['TRIAL_SHORT'].isin(TRIAL) & labels['YEAR'].isin(YEAR)
-    #idx = labels['LOC_SHORT'].isin(LOCATION) & labels['YEAR'].isin(YEAR)
-    data = labels[idx]    
+        idx = labels['TRIAL_SHORT'].isin(TRIAL) & labels['YEAR'].isin(YEAR)
+        #idx = labels['LOC_SHORT'].isin(LOCATION) & labels['YEAR'].isin(YEAR)
+        data = labels[idx]    
     
     if st.button('FILTER LABELS'):
             st.dataframe(data.iloc[:, 3:])

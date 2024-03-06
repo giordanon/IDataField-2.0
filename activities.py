@@ -16,8 +16,8 @@ def app():
         dfa = pd.read_excel(uploaded_file, sheet_name = "Activities")
         pheno = pd.read_excel(uploaded_file, sheet_name = "Phenology")
         
-    if uploaded_file:
         data = fx.explode_labels(data)
+        os.remove('labels.csv')
         ACTIVITY = st.selectbox('ACTIVITY', dfa['Activity name'].unique()) 
         DATE = st.date_input("When was the activity done?", value=None)
         
@@ -28,10 +28,10 @@ def app():
         YEAR = st.selectbox('YEAR', data['YEAR'].unique())
         COMMENTS = st.text_input('Is there anything we should know about the activity?')
             
-    if YEAR:  
-        prev_year = 2000 + int(YEAR) - 1
-        year_folder = f'SEASON {prev_year}-{YEAR}'
-        out_filepath = f'../{year_folder}/02-Labels/'
+        if YEAR:  
+            prev_year = 2000 + int(YEAR) - 1
+            year_folder = f'SEASON {prev_year}-{YEAR}'
+            out_filepath = f'../{year_folder}/02-Labels/'
         
     st.write("In the comments section you can tell us if something went wrong. Your comments are very valueable to identify problematic plots.")
     
