@@ -18,7 +18,7 @@ def app():
     with col2:
         TRIAL = st.selectbox('Trial', data['TRIAL_SHORT'].unique())
     with col3:
-        TRAIT = st.selectbox('Trait', ['GPC', 'STAND_COUNT', 'TILLER_COUNT', 'PLANT_HEIGHT', 'FHS'])
+        TRAIT = st.selectbox('Trait', ['GPC', 'STAND_COUNT', 'TILLER_COUNT', 'PH', 'FHS'])
     
     if st.button('Lauch field data uploader'):
             st.session_state["button_pressed"] = True
@@ -28,19 +28,47 @@ def app():
         prev_year = 2000 + int(YEAR) - 1
         year_folder = f'SEASON {prev_year}-{YEAR}'
         out_filepath = f'../{year_folder}/01-Data/{TRIAL}/'
-        filename = f'{out_filepath}/{TRIAL}_{TRAIT}.csv'
+        filename = f'{out_filepath}/{TRIAL}_field.csv'
 
         if not os.path.exists(out_filepath):
             os.makedirs(out_filepath)
             
         if os.path.isfile(filename):
             temp_trial = pd.read_csv(filename)
+            
+            if not TRAIT in temp_trial.columns and TRAIT == 'FHS':
+                for i in range(1, 11):
+                    temp_trial[f'FHS{i}'] = None
+                    
+            if not TRAIT in temp_trial.columns and TRAIT == 'PH':
+                for i in range(1, 11):
+                    temp_trial[f'PH{i}'] = None
+                    
+            if not TRAIT in temp_trial.columns:
+                temp_trial[TRAIT] = None
                 
         if not os.path.isfile(filename):
             temp_trial = data[(data['YEAR'] == YEAR) & (data['TRIAL_SHORT'] == TRIAL)]
             temp_trial = temp_trial[["YEAR", "LOC_SHORT", "Plot"]].drop_duplicates()
-            temp_trial[TRAIT] = np.nan
+            
+            if TRAIT == 'FHS':
+                for i in range(1, 11):
+                    temp_trial[f'FHS{i}'] = None
+                    
+            if TRAIT == 'PH':
+                for i in range(1, 11):
+                    temp_trial[f'PH{i}'] = None
+            if TRAIT != 'PH':  
+                temp_trial[TRAIT] = None
+            if TRAIT != 'FHS':  
+                temp_trial[TRAIT] = None
+            if 'FHS' in temp_trial.columns:
+                del temp_trial['FHS']
+            if 'PH' in temp_trial.columns:
+                del temp_trial['PH']
+                
             temp_trial.to_csv(filename, index = False)
+            
             
         # edit the dataframe 
         with st.form("data_editor_form"):

@@ -9,29 +9,35 @@ import datetime
 
 def app():    
     
-    uploaded_file = st.file_uploader("Upload LABELS_INPUT", type=["csv", "xlsx"])
+    metadata = 'Metadata.xlsx'
+    data = pd.read_excel(metadata, sheet_name = "LABELS_INPUT")
+    dfa = pd.read_excel(metadata, sheet_name = "Activities")
+    pheno = pd.read_excel(metadata, sheet_name = "Phenology")
+    data = fx.explode_labels(data)
+    #st.dataframe(data)
+    os.remove('labels.csv')
+    ACTIVITY = st.selectbox('ACTIVITY', dfa['Activity name'].unique()) 
     
-    if uploaded_file:
-        data = pd.read_excel(uploaded_file, sheet_name = "LABELS_INPUT")
-        dfa = pd.read_excel(uploaded_file, sheet_name = "Activities")
-        pheno = pd.read_excel(uploaded_file, sheet_name = "Phenology")
-        
-        data = fx.explode_labels(data)
-        os.remove('labels.csv')
-        ACTIVITY = st.selectbox('ACTIVITY', dfa['Activity name'].unique()) 
-        DATE = st.date_input("When was the activity done?", value=None)
-        
-        STAGE = st.selectbox('Crop stage? Check right crop stage [here](https://bookstore.ksre.ksu.edu/pubs/MF3300.pdf)',
-                             pheno['GS'].unique())  
+    col1, col2, col3, col4, col5 = st.columns(5)
+    
+    with col1:
+        DATE = st.date_input("Date of activity", value=None)
+    with col2:
+        STAGE = st.selectbox('Crop stage? [Ref](https://bookstore.ksre.ksu.edu/pubs/MF3300.pdf)',
+                         pheno['GS'].unique())  
+    with col3: 
         LOCATION = st.multiselect('LOCATION', data['LOC_SHORT'].unique())
+    with col4:
         TRIAL = st.multiselect('TRIAL', data['TRIAL_SHORT'].unique())
+    with col5:
         YEAR = st.selectbox('YEAR', data['YEAR'].unique())
-        COMMENTS = st.text_input('Is there anything we should know about the activity?')
+        
+    COMMENTS = st.text_input('Is there anything we should know about the activity?')
             
-        if YEAR:  
-            prev_year = 2000 + int(YEAR) - 1
-            year_folder = f'SEASON {prev_year}-{YEAR}'
-            out_filepath = f'../{year_folder}/02-Labels/'
+    if YEAR:  
+        prev_year = 2000 + int(YEAR) - 1
+        year_folder = f'SEASON {prev_year}-{YEAR}'
+        out_filepath = f'../{year_folder}/02-Labels/'
         
     st.write("In the comments section you can tell us if something went wrong. Your comments are very valueable to identify problematic plots.")
     
