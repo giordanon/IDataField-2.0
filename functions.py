@@ -1,4 +1,10 @@
 def explode_labels(inData):
+    
+    """
+    input: 
+    output:
+    This function is for...
+    """
     import pandas as pd
     from numpy import arange
     
