@@ -7,7 +7,9 @@ from skimage.measure import find_contours, label, regionprops_table
 import streamlit as st
 import pandas as pd
 from PIL import Image
-import os as os
+import os
+import functions as fx
+
 
 images_path = 'seeds/Seeds_Double_Check_Images/'
 folder_path = 'output/data/'
@@ -22,6 +24,8 @@ def app():
 
     if picture:
         st.image(picture)
+        
+        
         RGB = mpimg.imread(picture)
         I = rgb2gray(RGB)
         # Apply Otsu's method
@@ -49,6 +53,8 @@ def app():
        
       
     if st.button('LOAD TKW DATAPOINT'):
+        
+        
          
         TRIAL, SITE, YEAR, SAMPLING, PLOT = ID.split('-')
         

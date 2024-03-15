@@ -2,6 +2,10 @@ import activities, dataupload, dataupload_other_data, labels, canopy_c, combined
 import streamlit as st
 from PIL import Image
 
+
+im = Image.open('content/wheat.png')
+st.set_page_config(page_title="IDataField 2.0", page_icon = im)
+
 PAGES = {  
     'Welcome!' : welcome,
     'Upload Activity': activities,
@@ -17,10 +21,9 @@ PAGES = {
 }
 
 #st.write(st.__version__) # Line to check streamlit version
-st.title('IDataField')
+st.title('IDataField 2.0')
 st.sidebar.empty()
-logoksuwheat = Image.open('INPUT/logo_ksuwheat.jpg')
-st.sidebar.image(logoksuwheat, use_column_width=True)
+st.sidebar.image(im, use_column_width=True)
 st.sidebar.title('Navigation')
 selection = st.sidebar.radio("Go to", list(PAGES.keys()))
 page = PAGES[selection]

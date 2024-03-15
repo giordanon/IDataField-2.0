@@ -122,40 +122,49 @@ def explode_plot_labels(inData):
     df = df.reset_index() 
     return(df)
 
-def upload_partitioning(ID, TRAIT, TRAIT_2, TRAIT_3, TRAIT_4, MASS, MASS_2, MASS_3, MASS_4):
-    import pandas as pd
+def directory_check(ID):
     import os
+    
     TRIAL,SITE, YEAR, SAMPLING, PLOT = ID.split('-')
-        
+    
     prev_year = 2000 + int(YEAR) - 1
     year_folder = f'SEASON {prev_year}-{YEAR}'
     folder_path = f'../{year_folder}/01-Data/{TRIAL}'
-
     filename = f'{folder_path}/{TRIAL}.csv'
-
+    
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
+    
+    tempOut = [filename, TRIAL, SITE, YEAR, SAMPLING, PLOT]
+    return(tempOut)
+    
+
+def upload_partitioning(ID, TRAITS, WEIGHTS):
+    import pandas as pd
+    import os
+    import functions as fx
+    
+    filename, TRIAL, SITE, YEAR, SAMPLING, PLOT = fx.directory_check(ID)
 
     if not os.path.isfile(f'{filename}'): 
         df_create = pd.DataFrame(columns = ['ID', 'TRAIT', 'VALUE', 'TRIAL','SITE', 'YEAR', 'SAMPLING', 'PLOT'])
         df_create.to_csv(filename, index = False)      
 
     df = pd.read_csv(filename)
-
-
-    values_to_add = {'ID': [ID], 'TRAIT': [TRAIT], 'VALUE':[MASS], 'TRIAL':[TRIAL], 'SITE':[SITE], 'YEAR':[YEAR], 'SAMPLING':[SAMPLING], 'PLOT':[PLOT]}
-    values_to_add_2 = {'ID': [ID], 'TRAIT': [TRAIT_2], 'VALUE':[MASS_2], 'TRIAL':[TRIAL], 'SITE':[SITE], 'YEAR':[YEAR], 'SAMPLING':[SAMPLING], 'PLOT':[PLOT]}
-    values_to_add_3 = {'ID': [ID], 'TRAIT': [TRAIT_3], 'VALUE':[MASS_3], 'TRIAL':[TRIAL], 'SITE':[SITE], 'YEAR':[YEAR], 'SAMPLING':[SAMPLING], 'PLOT':[PLOT]}
-    values_to_add_4 = {'ID': [ID], 'TRAIT': [TRAIT_4], 'VALUE':[MASS_4], 'TRIAL':[TRIAL], 'SITE':[SITE], 'YEAR':[YEAR], 'SAMPLING':[SAMPLING], 'PLOT':[PLOT]}
-
-    df_new = pd.DataFrame(values_to_add)
-    df_new_2 = pd.DataFrame(values_to_add_2)
-    df_new_3 = pd.DataFrame(values_to_add_3)
-    df_new_4 = pd.DataFrame(values_to_add_4)
-
-    df = pd.concat([df, df_new, df_new_2, df_new_3, df_new_4])
+    
+    for i in range(len(TRAITS)):
+        values_to_add = pd.DataFrame({'ID': [ID], 
+                                      'TRAIT': [TRAITS[i]],
+                                      'VALUE':[WEIGHTS[i]], 
+                                      'TRIAL':[TRIAL], 
+                                      'SITE':[SITE], 
+                                      'YEAR':[YEAR], 
+                                      'SAMPLING':[SAMPLING], 
+                                      'PLOT':[PLOT]})
+        
+        df = pd.concat([df, values_to_add], ignore_index=True)
+    
     df.to_csv(filename, index = False)
-
     df = pd.read_csv(filename)
 
     return(df)
