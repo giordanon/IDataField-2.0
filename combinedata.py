@@ -3,7 +3,7 @@ import streamlit as st
 import os
 
 def app():
-    st.title('Combine Data Uploader')
+    
     uploaded_file = st.file_uploader("Upload Plot Lenght Data", type=["csv", "xlsx"])
     # Check if file was uploaded
     if uploaded_file:

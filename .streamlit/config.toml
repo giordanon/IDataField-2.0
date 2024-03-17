@@ -5,3 +5,7 @@ primaryColor = '#FF8C02' # Bright Orange
 backgroundColor = '#c7e6ff' # Light Blue
 
 secondaryBackgroundColor = '#55B2FF' # Lighter Blue
+
+[server]
+enableXsrfProtection = false
+enableCORS = false

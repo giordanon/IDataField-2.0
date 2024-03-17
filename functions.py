@@ -21,7 +21,7 @@ def explode_labels(inData):
     df['Plot'] = df['Rep1'] * 100 + df['Trt1']
     df['LABEL'] = df['TRIAL_SHORT'].astype(str) + '-' + df['LOC_SHORT'].astype(str) + '-' + df['YEAR'].astype(str) + '-' + df['SAMPLING'].astype(str) + '-' + df['Plot'].astype(str)
     df = df.reset_index()
-    df.to_csv("labels.csv", index = False)
+    #df.to_csv("labels.csv", index = False)
     return df
 
 def label_generator(data, SIZE, FILENAME, out_filepath):
@@ -120,7 +120,7 @@ def explode_plot_labels(inData):
     df['Plot'] = df['Rep1']*100 + df['Trt1']
     df['LABEL'] = df['TRIAL_SHORT'].astype(str) + '-' + df['LOC_SHORT'].astype(str) + '-' + df['YEAR'].astype(str) + '-' + df['SAMPLING'].astype(str) + '-' + df['Plot'].astype(str)
     df = df.reset_index() 
-    return(df)
+    return df 
 
 def directory_check(ID):
     import os
@@ -167,4 +167,35 @@ def upload_partitioning(ID, TRAITS, WEIGHTS):
     df.to_csv(filename, index = False)
     df = pd.read_csv(filename)
 
-    return(df)
+    return df
+
+def count_seeds(image, GRAIN_WEIGHT):
+    
+    import matplotlib.pyplot as plt
+    import matplotlib.image as mpimg
+    from skimage.color import rgb2gray, label2rgb
+    from skimage.filters import threshold_otsu
+    from skimage.morphology import area_opening, disk, binary_closing
+    from skimage.measure import find_contours
+    
+    RGB = mpimg.imread(image)
+    I = rgb2gray(RGB)
+    # Apply Otsu's method
+    global_threshold  = threshold_otsu(I)
+    BW = I < global_threshold
+    #Smoothing 
+    #Remove small areas
+    BW = area_opening(BW, area_threshold = 1000, connectivity=2)
+    # CLosing operation (Connects small patches of True pixels)
+    BW = binary_closing(BW, disk(5))
+    contours = find_contours(BW,0)
+    seed_num = len(contours)
+    TKW = (GRAIN_WEIGHT/seed_num)*1000 #introduce fx for defining tkw 
+
+    plt.imshow(BW, cmap = 'gray')
+    plt.axis('off')
+    for contour in contours:
+        plt.plot(contour[:,1], contour[:,0], '-r', linewidth = 1)
+    plt.savefig('tempImage.jpg')
+    
+    return TKW

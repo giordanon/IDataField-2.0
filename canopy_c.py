@@ -9,7 +9,6 @@ folder_path = 'output/data/'
 filename = folder_path + 'data.csv'
     
 def app():
-    st.title('KSU Wheat Canopy Cover Uploader App')
     
     ID = st.text_input('SCAN QR CODE IN PLOT OR LABEL')
     STAGE = st.selectbox('STAGE', ['F6', 'F105', 'SD'])

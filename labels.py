@@ -9,14 +9,11 @@ import streamlit as st
 import functions as fx
 
 def app():
-    st.title('Labels Generator App')
-       
-    data = pd.read_excel('Metadata.xlsx')
-    df = fx.explode_labels(data)        
-    #st.dataframe(df)   
 
-    if os.path.isfile('labels.csv'):
-        labels = pd.read_csv('labels.csv')
+    if os.path.isfile('Metadata.xlsx'):
+        data = pd.read_excel('Metadata.xlsx') # Specify the sheet that is reading
+        labels = fx.explode_labels(data)
+        st.dataframe(labels.iloc[:,2:], use_container_width=True, hide_index=True)
         
         col1, col2, col3, col4, col5 = st.columns(5)
         
@@ -53,7 +50,6 @@ def app():
             os.makedirs(out_filepath)
         
         fx.label_generator(data, SIZE, FILENAME, out_filepath)
-        os.remove('labels.csv')
         os.remove(f'{out_filepath}pdf1.pdf')
         
         

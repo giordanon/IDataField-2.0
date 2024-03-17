@@ -5,7 +5,6 @@ import streamlit as st
 import functions as fx
 
 def app():
-    st.title('Field Data Uploader')
 
     data = pd.read_excel('Metadata.xlsx')
     data = fx.explode_labels(data)

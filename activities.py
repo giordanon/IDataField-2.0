@@ -15,7 +15,7 @@ def app():
     pheno = pd.read_excel(metadata, sheet_name = "Phenology")
     data = fx.explode_labels(data)
     #st.dataframe(data)
-    os.remove('labels.csv')
+    #os.remove('labels.csv')
     ACTIVITY = st.selectbox('ACTIVITY', dfa['Activity name'].unique()) 
     
     col1, col2, col3, col4, col5 = st.columns(5)
@@ -39,7 +39,7 @@ def app():
         year_folder = f'SEASON {prev_year}-{YEAR}'
         out_filepath = f'../{year_folder}/02-Labels/'
         
-    st.write("In the comments section you can tell us if something went wrong. Your comments are very valueable to identify problematic plots.")
+    st.write("In the comments section you can tell us if something went wrong. Your comments are very valuable to identify problematic plots.")
     
     if st.button('SAVE ACTIVITY'):
         

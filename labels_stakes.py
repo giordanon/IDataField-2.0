@@ -7,7 +7,7 @@ import streamlit as st
 import functions as fx
 
 def app():
-    st.title('Stakes Labels Generator App')
+    
     metadata = 'Metadata.xlsx'
     data = pd.read_excel(metadata)   
     df = fx.explode_plot_labels(data)
