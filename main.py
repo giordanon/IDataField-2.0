@@ -20,6 +20,7 @@ PAGES = {
     'Merge Data': merge_data
 }
 #st.write(st.__version__) # Line to check streamlit version
+# Check sync
 st.title('IDataField 2.0')
 st.sidebar.image(im, use_column_width=True)
 with st.sidebar:
