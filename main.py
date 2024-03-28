@@ -1,4 +1,4 @@
-import activities, dataupload, dataupload_other_data, labels, canopy_c, combinedata, seeds, merge_data, labels_stakes, welcome, field_data_uploader
+import activities, dataupload, dataupload_other_data, labels, canopy_c, combinedata, seeds, merge_data, labels_stakes, welcome, field_data_uploader, flight_path_generator, Image_cut
 import streamlit as st
 from streamlit_option_menu import option_menu
 from PIL import Image
@@ -14,10 +14,13 @@ PAGES = {
     'Lab Data Uploader': dataupload_other_data,
     'Bag Labels Generator': labels, 
     'Stakes Labels Generator': labels_stakes,
+    'Flight Path Generator': flight_path_generator,
     'Canopy Cover Uploader': canopy_c, 
     'Seed Counter': seeds, 
     'Combine Data Uploader': combinedata, 
-    'Merge Data': merge_data
+    'Merge Data': merge_data,
+    'Image Cropper' : Image_cut
+    
 }
 #st.write(st.__version__) # Line to check streamlit version
 # Check sync
@@ -27,7 +30,7 @@ with st.sidebar:
     selection = option_menu(menu_title = "Menu", 
                             options = list(PAGES.keys()), 
                             icons = ['house', 'box-arrow-in-down','box-arrow-in-down','box-arrow-in-down','box-arrow-in-down',
-                                    'qr-code','qr-code', 'badge-cc-fill', 'upc-scan', 'box-arrow-in-down', 'union'], 
+                                    'qr-code','qr-code', '1315', 'upc-scan', 'box-arrow-in-down', 'union'], 
                             menu_icon = 'three-dots'
                            )
 page = PAGES[selection]

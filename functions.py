@@ -24,6 +24,38 @@ def explode_labels(inData):
     #df.to_csv("labels.csv", index = False)
     return df
 
+def explode_cc_labels(inData):
+    
+    """
+    input: 
+    output:
+    This function is for...
+    """
+    import pandas as pd
+    from numpy import arange
+    
+    inData = inData.dropna().reset_index()
+    inData['SAMPLING'] = inData['SAMPLING'].str.replace(' ', '').str.split(pat = ",",  expand = False)
+    inData['Trt1'] = pd.Series(dtype = 'object')
+    inData['Rep1'] = pd.Series(dtype = 'object')
+    
+    for k,row in inData.iterrows():
+        inData.at[k,'Trt1'] = arange(1,int(inData.at[k,'Trt'])+1)
+        inData.at[k,'Rep1'] = arange(1,int(inData.at[k,'Reps'])+1)
+            
+    df = inData.explode('SAMPLING').explode('Rep1').explode('Trt1')
+    df['Plot'] = df['Rep1'] * 100 + df['Trt1']
+    df = df[df['SAMPLING'].str.contains('CCP')].copy()
+    del df['SAMPLING']
+    df['SAM'] = 'CCP'
+    
+    df['LABEL'] = df['TRIAL_SHORT'].astype(str) + '-' + df['LOC_SHORT'].astype(str) + '-' + df['YEAR'].astype(str) + '-' + df['SAM'].astype(str) + '-' + df['Plot'].astype(str)
+    df = df[['TRIAL_SHORT','LOC_SHORT','YEAR','Plot','SAM', 'LABEL']]
+    df = df.reset_index()
+    df = df.drop_duplicates(subset=['LABEL'])
+    return df
+
+
 def label_generator(data, SIZE, FILENAME, out_filepath):
     import os, qrcode, time
     from reportlab.lib.units import inch
@@ -199,3 +231,19 @@ def count_seeds(image, GRAIN_WEIGHT):
     plt.savefig('tempImage.jpg')
     
     return TKW
+
+# Function to crop the image
+def crop_image(image, top):
+    dimensions = image.shape
+    h = dimensions[0]
+    w = dimensions[1]
+
+    bottom = top + 1680
+    cropped_image = image[top:bottom, 1000:(w - 1000)]
+    return cropped_image
+# Function to adjust coordinates
+def adjust_coordinates(df, south_adjustment, west_adjustment):
+    import numpy as np
+    df['Latitude'] -= south_adjustment / 111320
+    df['Longitude'] -= west_adjustment / (111320 * np.cos(np.radians(df['Latitude'])))
+    return df
