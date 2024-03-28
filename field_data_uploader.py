@@ -17,7 +17,7 @@ def app():
     with col2:
         TRIAL = st.selectbox('Trial', data['TRIAL_SHORT'].unique())
     with col3:
-        TRAIT = st.selectbox('Trait', ['GPC', 'STAND_COUNT', 'TILLER_COUNT', 'PH', 'FHS'])
+        TRAIT = st.selectbox('Trait', ['GPC', 'STAND_COUNT', 'TILLER_COUNT', 'PH', 'FHS', 'VIGOR'])
     
     if st.button('Lauch field data uploader'):
             st.session_state["button_pressed"] = True
