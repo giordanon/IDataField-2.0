@@ -102,6 +102,7 @@ def label_generator(data, SIZE, FILENAME, out_filepath):
     outputStream = open(f"{out_filepath}{filename}.pdf", "wb")
     output.write(outputStream)
     outputStream.close()
+    time.sleep(.1)
 
 def explode_plot_labels(inData): 
     import pandas as pd

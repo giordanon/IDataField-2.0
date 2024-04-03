@@ -1,4 +1,4 @@
-import activities, dataupload, dataupload_other_data, labels, canopy_c, combinedata, seeds, merge_data, labels_stakes, welcome, field_data_uploader
+import activities, dataupload, dataupload_other_data, labels, canopy_c, combinedata, seeds, merge_data, labels_stakes, welcome, field_data_uploader, metadata
 import streamlit as st
 from streamlit_option_menu import option_menu
 from PIL import Image
@@ -17,7 +17,8 @@ PAGES = {
     'Canopy Cover Uploader': canopy_c, 
     'Seed Counter': seeds, 
     'Combine Data Uploader': combinedata, 
-    'Merge Data': merge_data
+    'Merge Data': merge_data, 
+    'Meta-Data': metadata
 }
 #st.write(st.__version__) # Line to check streamlit version
 # Check sync
