@@ -28,13 +28,13 @@ def label_generator(data, SIZE, FILENAME, out_filepath):
     import os, qrcode, time
     from reportlab.lib.units import inch
     from reportlab.pdfgen import canvas
-    from PyPDF2 import PdfReader, PdfWriter
+    from PyPDF2 import PdfFileReader, PdfFileWriter
     
     data = data
     size = SIZE[0] 
     filename = FILENAME
 
-    output = PdfWriter()
+    output = PdfFileWriter()
 
     if size == 'BIG':
         h = 2.4
@@ -95,7 +95,7 @@ def label_generator(data, SIZE, FILENAME, out_filepath):
         c.showPage()
         c.save()
         time.sleep(.1)
-        pdfOne = PdfReader(f"{out_filepath}pdf1.pdf", "rb")
+        pdfOne = PdfFileReader(f"{out_filepath}pdf1.pdf", "rb")
         output.add_page(pdfOne.pages[0])
         time.sleep(.1)
         

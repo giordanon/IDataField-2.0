@@ -4,7 +4,7 @@ import os as os
 import qrcode, time
 from reportlab.lib.units import inch
 from reportlab.pdfgen import canvas
-from PyPDF2 import PdfReader, PdfWriter
+from PyPDF2 import PdfFileReader, PdfFileWriter
 import streamlit as st
 import functions as fx
 
