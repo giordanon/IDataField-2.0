@@ -2,6 +2,7 @@ import functions as fx
 import streamlit as st
 from PIL import Image
 import os
+import pandas as pd
 
 def app():
    
@@ -21,5 +22,5 @@ def app():
     if st.button('LOAD TKW DATAPOINT'):
         
         df = fx.upload_partitioning(ID, ["TKW"], [TKW])
-        st.dataframe(df)
+        st.dataframe(df.tail(10))
      
