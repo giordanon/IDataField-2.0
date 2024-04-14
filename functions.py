@@ -14,8 +14,8 @@ def explode_labels(inData):
     inData['Rep1'] = pd.Series(dtype = 'object')
     
     for k,row in inData.iterrows():
-        inData.at[k,'Trt1'] = arange(1,int(inData.at[k,'Trt'])+1)
-        inData.at[k,'Rep1'] = arange(1,int(inData.at[k,'Reps'])+1)
+        inData.at[k,'Trt1'] = arange(1,int(inData.at[k,'TRT'])+1)
+        inData.at[k,'Rep1'] = arange(1,int(inData.at[k,'REPS'])+1)
             
     df = inData.explode('SAMPLING').explode('Rep1').explode('Trt1')
     df['Plot'] = df['Rep1'] * 100 + df['Trt1']
@@ -39,20 +39,20 @@ def label_generator(data, SIZE, FILENAME, out_filepath):
     if size == 'BIG':
         h = 2.4
         w = 3.9
-        y = -0.5*inch
-        x = 0.67*inch
-        txt_size = 20
+        y = -0.70 * inch
+        x = 0.67 * inch
+        txt_size = 15
         y2 = 9
-        x2 = 1.1*inch
-        qrsize = 3
-        qrx = 0.1 * inch
-        qry = -0.9*inch
+        x2 = 1.1 * inch
+        qrsize = 2.2
+        qrx = 0.3 * inch
+        qry = -0.5 * inch
     elif size == 'SMALL':
         h = 1.4
         w = 3.5
-        y = -0.5 * inch
+        y = -0.7 * inch
         x = - 0.3 * inch
-        txt_size = 15
+        txt_size = 12
         y2 = - 0.1 * inch
         x2 = 0.01 * inch
         qrsize = 1.6
@@ -114,8 +114,8 @@ def explode_plot_labels(inData):
     data['Rep1'] = pd.Series(dtype = 'object')
 
     for k,row in data.iterrows():
-        data.at[k,'Trt1'] = arange(1,int(data.at[k,'Trt'])+1)
-        data.at[k,'Rep1'] = arange(1,int(data.at[k,'Reps'])+1)
+        data.at[k,'Trt1'] = arange(1,int(data.at[k,'TRT'])+1)
+        data.at[k,'Rep1'] = arange(1,int(data.at[k,'REPS'])+1)
 
     df = data.explode('SAMPLING').explode('Rep1').explode('Trt1')
     df['Plot'] = df['Rep1']*100 + df['Trt1']

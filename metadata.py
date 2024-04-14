@@ -113,12 +113,15 @@ def app():
         
         col1, col2, col3 = st.columns(3)
         
-        with col1: 
-            TRIAL = st.selectbox('Trial', data['TRIAL_SHORT'].unique(), key = 500)
-        with col2: 
-            LOCATION = st.selectbox('Location', data['LOC_SHORT'].unique(), key = 600)
-        with col3:
+        with col1:
             YEAR = st.selectbox('Year', data['YEAR'].unique(), key = 700)
+        with col2: 
+            options = data[data['YEAR'].isin([YEAR])]['TRIAL_SHORT'].unique()
+            TRIAL = st.selectbox('Trial', options, key = 500)
+        with col3: 
+            options = data[data['TRIAL_SHORT'].isin([TRIAL]) & data['YEAR'].isin([YEAR])]['LOC_SHORT'].unique()
+            LOCATION = st.selectbox('Location', options, key = 600)
+        
             
         col4, col5, col6 = st.columns(3)
         
@@ -135,7 +138,7 @@ def app():
         if st.button(f'Update sampling for {TRIAL} in {LOCATION}', key='b6'):
             try: 
                 fx.update_samplings(SAMPLING, TRIAL, YEAR, LOCATION)
-            st.write(f'Samplings for {YEAR} - {TRIAL} - {LOCATION} updated! You can now print labels you need!')
+                st.write(f'Samplings for {YEAR} - {TRIAL} - {LOCATION} updated! You can now print labels you need!')
             except:
                 st.error('Complete all fields above. Output filename is metadata/Labels.csv, make sure the file is in the correct directory.')
         

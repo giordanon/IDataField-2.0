@@ -10,10 +10,10 @@ import functions as fx
 
 def app():
 
-    if os.path.isfile('Metadata.xlsx'):
-        data = pd.read_excel('Metadata.xlsx') # Specify the sheet that is reading
+    if os.path.isfile('metadata/Labels.csv'):
+        data = pd.read_csv('metadata/Labels.csv') # Specify the sheet that is reading
         labels = fx.explode_labels(data)
-        st.dataframe(labels.iloc[:,2:], hide_index=True)
+        st.dataframe(labels, hide_index=True)
         
         col1, col2, col3, col4, col5 = st.columns(5)
         
