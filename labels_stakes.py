@@ -8,8 +8,8 @@ import functions as fx
 
 def app():
     
-    metadata = 'Metadata.xlsx'
-    data = pd.read_excel(metadata)   
+    metadata = 'metadata/Labels.csv'
+    data = pd.read_csv(metadata)   
     df = fx.explode_plot_labels(data)
     #st.dataframe(df)
     df.to_csv("labels.csv", index = False)    
