@@ -4,7 +4,7 @@ import os as os
 import qrcode, time
 from reportlab.lib.units import inch
 from reportlab.pdfgen import canvas
-from PyPDF2 import PdfFileReader, PdfFileWriter
+from PyPDF2 import PdfFileReader, PdfFileWriter # Make sure is version 2.0.0
 import streamlit as st
 import functions as fx
 
@@ -13,18 +13,21 @@ def app():
     if os.path.isfile('Metadata.xlsx'):
         data = pd.read_excel('Metadata.xlsx') # Specify the sheet that is reading
         labels = fx.explode_labels(data)
-        st.dataframe(labels.iloc[:,2:], use_container_width=True, hide_index=True)
+        st.dataframe(labels.iloc[:,2:], hide_index=True)
         
         col1, col2, col3, col4, col5 = st.columns(5)
         
-        with col1:
-            STAGE = st.multiselect('Sampling at?', labels['SAMPLING'].unique())  
-        with col2:
-            LOCATION = st.multiselect('LOCATION', labels['LOC_SHORT'].unique())
-        with col3:
-            TRIAL = st.multiselect('TRIAL', labels['TRIAL_SHORT'].unique())
-        with col4: 
+        with col1: 
             YEAR = st.multiselect('YEAR', labels['YEAR'].unique())
+        with col2:
+            options = labels[labels['YEAR'].isin(YEAR)]['TRIAL_SHORT'].unique()
+            TRIAL = st.multiselect('TRIAL',options)   
+        with col3:
+            options = labels[labels['TRIAL_SHORT'].isin(TRIAL) & labels['YEAR'].isin(YEAR)]['LOC_SHORT'].unique()
+            LOCATION = st.multiselect('LOCATION', options)
+        with col4:
+            options = labels[labels['LOC_SHORT'].isin(LOCATION) & labels['TRIAL_SHORT'].isin(TRIAL) & labels['YEAR'].isin(YEAR)]['SAMPLING'].unique()
+            STAGE = st.multiselect('Sampling at?', options)  
         with col5:
             SIZE = st.multiselect('Size to Print', ['BIG', 'SMALL'])
     

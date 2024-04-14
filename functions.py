@@ -200,3 +200,120 @@ def count_seeds(image, GRAIN_WEIGHT):
     plt.savefig('tempImage.jpg')
     
     return TKW
+
+## Metadata functions
+def add_metatrials(TRIAL_LONG, TRIAL_SHORT):
+    import os
+    import pandas as pd
+    
+    filename = 'metadata/Trials.csv'
+    if not os.path.isfile(filename): 
+        df_create = pd.DataFrame(columns = ['Trial Name', 'TRIAL_SHORT', 'TRIAL_CODE'])
+        df_create.to_csv(filename, index = False) 
+
+
+    values_to_add = pd.DataFrame({'Trial Name': [TRIAL_LONG], # select box 
+                                  'TRIAL_SHORT': [TRIAL_SHORT], #Select box - single trial
+                                  'TRIAL_CODE': [999]})
+
+    df = pd.read_csv(filename)
+    dfnew = pd.concat([df, values_to_add], ignore_index=True)
+    dfnew.to_csv(filename, index = False)
+
+## Function to add new locations
+def add_metalocations(LOCATION, LOC_SHORT):  
+    import os
+    import pandas as pd
+    
+    filename = 'metadata/Locations.csv'
+    if not os.path.isfile(filename): 
+        df_create = pd.DataFrame(columns = ['Location', 'LOC_SHORT'])
+        df_create.to_csv(filename, index = False) 
+
+
+    values_to_add = pd.DataFrame({'Location': [LOCATION], 
+                                  'LOC_SHORT': [LOC_SHORT]})
+
+    df = pd.read_csv(filename)
+    dfnew = pd.concat([df, values_to_add], ignore_index=True)
+    dfnew.to_csv(filename, index = False)
+    
+## Function to add new traits
+def add_metatraits(TRAIT, TRAIT_SHORT):  
+    import os
+    import pandas as pd
+    
+    filename = 'metadata/Traits.csv'
+    if not os.path.isfile(filename): 
+        df_create = pd.DataFrame(columns = ['TRAIT', 'TRAIT_SHORT'])
+        df_create.to_csv(filename, index = False) 
+
+
+    values_to_add = pd.DataFrame({'TRAIT': [TRAIT], 
+                                  'TRAIT_SHORT': [TRAIT_SHORT]})
+
+    df = pd.read_csv(filename)
+    dfnew = pd.concat([df, values_to_add], ignore_index=True)
+    dfnew.to_csv(filename, index = False)
+    
+def add_metactivity(ACTIVITY, ACTIVITY_SHORT):
+    import os
+    import pandas as pd
+    
+    filename = 'metadata/Activities.csv'
+    if not os.path.isfile(filename): 
+        df_create = pd.DataFrame(columns = ['ACTIVITY', 'ACTIVITY_SHORT'])
+        df_create.to_csv(filename, index = False) 
+
+
+    values_to_add = pd.DataFrame({'ACTIVITY': [ACTIVITY], 
+                                  'ACTIVITY_SHORT': [ACTIVITY_SHORT]})
+
+    df = pd.read_csv(filename)
+    dfnew = pd.concat([df, values_to_add], ignore_index=True)
+    dfnew.to_csv(filename, index = False)
+
+## Add trial within a field and sampling
+def add_metalabels(TRIAL, LOCATION, YEAR, TRT, REPS, SAMPLING, TRIAL_CODE = 9999):
+    import os
+    import pandas as pd
+    
+    filename = 'metadata/Labels.csv'
+    if not os.path.isfile(filename): 
+        df_create = pd.DataFrame(columns = ['YEAR', 'TRIAL_SHORT','LOC_SHORT','TRT','REPS','SAMPLING','TRIAL_CODE'])
+        df_create.to_csv(filename, index = False)
+    
+    values_to_add = pd.DataFrame({'YEAR': YEAR, # select box 
+                                  'TRIAL_SHORT': TRIAL, #Select box - single trial
+                                  'LOC_SHORT':LOCATION, # Multiple locations
+                                  'TRT':TRT, # Number of treatments of the trial
+                                  'REPS':REPS, # Number of replicates of the trial, make sure you have the same reps ax selected locations
+                                  'SAMPLING':[SAMPLING], 
+                                  'TRIAL_CODE':[TRIAL_CODE]})
+
+    df = pd.read_csv(filename)
+    dfnew = pd.concat([df, values_to_add], ignore_index=True)
+    dfnew.to_csv(filename, index = False)
+    
+# Update samplings
+def update_samplings(values_to_add, TRIAL_SHORT, YEAR, LOC_SHORT):
+    
+    import pandas as pd
+    
+    filename = 'metadata/Labels.csv'
+    data = pd.read_csv(filename)
+    # Select a trial to update sampling
+    filtered = data[data['TRIAL_SHORT'].isin([TRIAL_SHORT]) & data['YEAR'].isin([YEAR]) & data['LOC_SHORT'].isin([LOC_SHORT])]['SAMPLING']
+    sampling = filtered.str.replace(' ', '').str.split(pat = ",",  expand = False)
+    out = []
+    [out.extend(inner_list) for inner_list in sampling]
+    # Out object contains updatdata sampling values 
+    out += values_to_add
+    # Convert list to string ans separate samplign times with a comma
+    out = ', '.join(out)
+    # Add updates sampling into the old dataframe
+    condition = data['TRIAL_SHORT'].isin([TRIAL_SHORT]) & data['YEAR'].isin([YEAR]) & data['LOC_SHORT'].isin([LOC_SHORT])
+    data.loc[condition, 'SAMPLING'] = out
+    data.to_csv(filename, index = False)
+    
+    return(data)
