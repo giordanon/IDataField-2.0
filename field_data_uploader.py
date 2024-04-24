@@ -5,9 +5,11 @@ import streamlit as st
 import functions as fx
 
 def app():
-
-    data = pd.read_excel('Metadata.xlsx')
-    data = fx.explode_labels(data)
+    if os.path.isfile('metadata/Labels.csv'):
+        data = pd.read_csv('metadata/Labels.csv') # Specify the sheet that is reading
+        data = fx.explode_labels(data)
+        # Read Traits
+        #traits = pd.read_csv('metadata/Traits.csv') 
     
     #st.dataframe(data)
     col1, col2, col3 = st.columns(3)
@@ -15,10 +17,11 @@ def app():
     with col1:
         YEAR = st.selectbox('Season (harvest year)', data['YEAR'].unique())
     with col2:
-        TRIAL = st.selectbox('Trial', data['TRIAL_SHORT'].unique())
+        options = data[data['YEAR'].isin([YEAR])]['TRIAL_SHORT'].unique()
+        TRIAL = st.selectbox('Trial', options)
     with col3:
-        TRAIT = st.selectbox('Trait', ['GPC', 'STAND_COUNT', 'TILLER_COUNT', 
-                                       'PH', 'FHS', 'VIGOR', 'FRESH_WEIGHT','DRY_WEIGHT'])
+        options = data[data['TRIAL_SHORT'].isin([TRIAL]) & data['YEAR'].isin([YEAR])]['SAMPLING'].unique()
+        TRAIT = st.selectbox('Trait', options)
     
     if st.button('Lauch field data uploader'):
             st.session_state["button_pressed"] = True

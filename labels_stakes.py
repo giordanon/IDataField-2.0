@@ -11,7 +11,6 @@ def app():
     metadata = 'metadata/Labels.csv'
     data = pd.read_csv(metadata)   
     df = fx.explode_plot_labels(data)
-    #st.dataframe(df)
     df.to_csv("labels.csv", index = False)    
 
     if os.path.isfile('labels.csv'): 
@@ -19,16 +18,16 @@ def app():
         os.remove('labels.csv')
 
         col1, col2, col3 = st.columns(3)
-
+        
         with col1:
-            TRIAL = st.multiselect('Trial', labels['TRIAL_SHORT'].unique())
-        with col2:
             YEAR = st.multiselect('Year', labels['YEAR'].unique())
+        with col2:
+            options = labels[labels['YEAR'].isin(YEAR)]['TRIAL_SHORT'].unique()
+            TRIAL = st.multiselect('Trial', options)
         with col3:
             FILENAME = st.text_input('File name')
 
         idx = labels['TRIAL_SHORT'].isin(TRIAL) & labels['YEAR'].isin(YEAR)
-        #idx = labels['LOC_SHORT'].isin(LOCATION) & labels['YEAR'].isin(YEAR)
         data = labels[idx]
         
         
