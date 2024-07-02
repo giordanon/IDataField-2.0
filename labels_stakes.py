@@ -14,21 +14,21 @@ def app():
     df.to_csv("labels.csv", index = False)    
 
     if os.path.isfile('labels.csv'): 
-        labels = pd.read_csv('labels.csv')
+        #labels = pd.read_csv('labels.csv')
         os.remove('labels.csv')
 
         col1, col2, col3 = st.columns(3)
         
         with col1:
-            YEAR = st.multiselect('Year', labels['YEAR'].unique())
+            YEAR = st.multiselect('Year', df['YEAR'].unique())
         with col2:
-            options = labels[labels['YEAR'].isin(YEAR)]['TRIAL_SHORT'].unique()
+            options = df[df['YEAR'].isin(YEAR)]['TRIAL_SHORT'].unique()
             TRIAL = st.multiselect('Trial', options)
         with col3:
             FILENAME = st.text_input('File name')
 
-        idx = labels['TRIAL_SHORT'].isin(TRIAL) & labels['YEAR'].isin(YEAR)
-        data = labels[idx]
+        idx = df['TRIAL_SHORT'].isin(TRIAL) & df['YEAR'].isin(YEAR)
+        data = df[idx].drop_duplicates(subset=['LABEL'])
         
         
         
@@ -65,7 +65,6 @@ def app():
         outPs = data.merge(dataTrt, on=["Plot","TRIAL_SHORT", "LOC_SHORT"])
         
         outPs = outPs.transpose()
-        outPs.to_excel(f"{out_filepath}{FILENAME}.xlsx", index=False)
+        outPs.to_excel(f"{FILENAME}.xlsx", index=False)
         st.dataframe(outPs)
-    
     

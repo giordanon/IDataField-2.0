@@ -9,22 +9,20 @@ import datetime
 
 def app():    
     
-    metadata = 'Metadata.xlsx'
-    data = pd.read_excel(metadata, sheet_name = "LABELS_INPUT")
-    dfa = pd.read_excel(metadata, sheet_name = "Activities")
-    pheno = pd.read_excel(metadata, sheet_name = "Phenology")
+    data = pd.read_csv('metadata/Labels.csv')
+    dfa = pd.read_csv('metadata/Activities.csv')
+    pheno = ['F010', 'F020', 'F030', 'F040', 'F050' ,'F060' ,'F070' ,'F080' ,'F090' ,'F010' ,'F101' ,'F105' ,'F111' ,'F112' ,'F113' ,'F114']
     data = fx.explode_labels(data)
     #st.dataframe(data)
     #os.remove('labels.csv')
-    ACTIVITY = st.selectbox('ACTIVITY', dfa['Activity name'].unique()) 
+    ACTIVITY = st.selectbox('ACTIVITY', dfa['ACTIVITY_NAME'].unique()) 
     
     col1, col2, col3, col4, col5 = st.columns(5)
     
     with col1:
         DATE = st.date_input("Date of activity", value=None)
     with col2:
-        STAGE = st.selectbox('Crop stage? [Ref](https://bookstore.ksre.ksu.edu/pubs/MF3300.pdf)',
-                         pheno['GS'].unique())  
+        STAGE = st.selectbox('Crop stage? Actual crop stage at which the activity was done. [Ref](https://bookstore.ksre.ksu.edu/pubs/MF3300.pdf)', pheno)  
     with col3: 
         LOCATION = st.multiselect('LOCATION', data['LOC_SHORT'].unique())
     with col4:

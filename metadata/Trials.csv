@@ -1,50 +1,52 @@
 Trial Name,TRIAL_SHORT,TRIAL_CODE
-Alfalfa,ALF,35.0
-Biononitrynx 1,Bio1,35.0
-Biononitrynx 2,Bio2,36.0
-Biononitrynx 3,Bio3,37.0
-Chloride (2) x variety (24),Cl24,2.0
-Cl x 2 varieties,Clx2,1.0
-Demostration plot,DEMO,39.0
-Dual purpose,DP,10.0
-First Hollow Stem,FHS,23.0
-Kelsey's Fungicide UFT,FKF,9.0
-FMC fertilizer,FMC,18.0
-Fungicide Residual Life,FRL,11.0
-Grain Craft IWM,GCIWM,26.0
-Grain Only,GO,12.0
-Horton PD,HPD,33.0
-Horton seed rate,HSR,13.0
-IntrinsyxBio,IBIO,42.0
-Indigo,IND,3.0
-KWC IWM,IWM,14.0
-Kelsey's Predictive Model,K.PM,27.0
-Kelsey's Scab Manegement,K.Scab,30.0
-Kelsey's seed trt 1,K.ST1,40.0
-Kelsey's ST2,K.ST2,41.0
-Kelsey's Tan Spot Trial,K.Tan.S,31.0
-Kelsey's Uniforme Fungicide Trial,K.UFT,28.0
-Kelsey's FMC Fungicide ,KF.FMC,29.0
-Kelsey FMC,KFMC,8.0
-Kelsey's Syngenta,KFS,24.0
-N4R management,N4R,36.0
-Nitrogen x fungicide,NxF,4.0
-Nitrogen x Variety,NxV,37.0
-PivotBio,PBIO,38.0
-Predictive Model Stripe,PMS,6.0
-Predictive Model tan spot,PMT,7.0
-RAIN Ag rotation - forage,RAIN,15.0
-Random Trial,RT,9999.0
-Sarah herbicide,S.B,43.0
-Sanovita,SAN,25.0
-Sanovita 1,SAN1,
-S presence,SP,5.0
-TBD,TBD,16.0
-Tillering Plasticity,TP,17.0
-Tritordeum Trial,TRIT,32.0
-USWBSI IM,US,19.0
-Variety Demonstration,VD,34.0
-Valent Growth Regulator,VGR,20.0
-Variety Performance Trial,VPT,22.0
-Variety Ranking vs crop seq.,VR,21.0
-Aastha's trial,AST,999.0
+Cl x 2 varieties,Clx2,1
+Chloride (2) x variety (24),Cl24,2
+Indigo,IND,3
+Nitrogen x fungicide,NxF,4
+S presence,SP,5
+Predictive Model Stripe,PMS,6
+Predictive Model tan spot,PMT,7
+Kelsey FMC,KFMC,8
+Kelsey's Fungicide UFT,FKF,9
+Dual purpose,DP,10
+Fungicide Residual Life,FRL,11
+Grain Only,GO,12
+Horton seed rate,HSR,13
+KWC IWM,IWM,14
+RAIN Ag rotation - forage,RAIN,15
+TBD,TBD,16
+Tillering Plasticity,TP,17
+FMC fertilizer,FMC,18
+USWBSI IM,US,19
+Valent Growth Regulator,VGR,20
+Variety Ranking vs crop seq.,VR,21
+Variety Performance Trial,VPT,22
+First Hollow Stem,FHS,23
+Kelsey's Syngenta,KFS,24
+Sanovita,SAN,25
+Grain Craft IWM,GCIWM,26
+Kelsey's Predictive Model,K.PM,27
+Kelsey's Uniforme Fungicide Trial,K.UFT,28
+Kelsey's FMC Fungicide ,KF.FMC,29
+Kelsey's Scab Manegement,K.Scab,30
+Kelsey's Tan Spot Trial,K.Tan.S,31
+Tritordeum Trial,TRIT,32
+Horton PD,HPD,33
+Variety Demonstration,VD,34
+Biononitrynx 1,Bio1,35
+Biononitrynx 2,Bio2,36
+Biononitrynx 3,Bio3,37
+PivotBio,PBIO,38
+Demostration plot,DEMO,39
+Kelsey's seed trt 1,K.ST1,40
+Kelsey's ST2,K.ST2,41
+IntrinsyxBio,IBIO,42
+Sarah herbicide,S.B,43
+N4R management,N4R,44
+Nitrogen x Variety,NxV,45
+FMC liquid Fertilizer,FMCL,46
+TopGrain Valent,TGV,47
+Valent Biostimulant,VBIO,48
+Sanovita 1,SAN1,49
+Alfalfa,ALF,50
+SHB,S.HB,999

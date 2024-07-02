@@ -138,6 +138,41 @@ def directory_check(ID):
     
     tempOut = [filename, TRIAL, SITE, YEAR, SAMPLING, PLOT]
     return(tempOut)
+
+
+def directory_check_combine(YEAR, TRIAL):
+    import os
+    
+    prev_year = 2000 + int(YEAR) - 1
+    year_folder = f'SEASON {prev_year}-{YEAR}'
+    folder_path = f'../{year_folder}/01-Data/{TRIAL}'
+    
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
+        
+    filename = f'{folder_path}/{TRIAL}_Combine_Data.csv'
+    
+    return(filename)
+
+def file_check_combine(LOCATION, filename, merged_data):
+    import os
+    import pandas as pd
+    import streamlit as st
+    
+    if os.path.isfile(filename):
+        temp1 = pd.read_csv(filename)
+        
+        if LOCATION in temp1['LOCATION'].unique():
+            st.write(f'{LOCATION} already added.')
+            
+        if not LOCATION in temp1['LOCATION'].unique():
+            tempOut = pd.concat([temp1, merged_data])
+            tempOut.to_csv(filename, index = False)
+        
+    if not os.path.isfile(filename):
+        merged_data.to_csv(filename, index = False)
+
+
     
 
 def upload_partitioning(ID, TRAITS, WEIGHTS):

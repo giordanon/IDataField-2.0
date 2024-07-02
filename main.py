@@ -1,22 +1,22 @@
-import activities, dataupload, dataupload_other_data, labels, canopy_c, combinedata, seeds, merge_data, labels_stakes, welcome, field_data_uploader, metadata
+import activities, dataupload, dataupload_other_data, labels, canopy_c, combinedata, seeds, merge_data, labels_stakes, welcome, field_data_uploader, metadata, combine
 import streamlit as st
 from streamlit_option_menu import option_menu
 from PIL import Image
 
 im = Image.open('content/wheat.png')
-st.set_page_config(page_title="IDataField 2.0", page_icon = im)
+st.set_page_config(page_title = "IDataField 2.0", page_icon = im)
 
 PAGES = {  
     'Welcome!': welcome,
     'Activities Uploader': activities,
-    'Partitioning Data Uploader': dataupload ,
+    'Partitioning Data Uploader': dataupload,
     'Field Data Uploader': field_data_uploader,
     'Lab Data Uploader': dataupload_other_data,
     'Bag Labels Generator': labels, 
     'Stakes Labels Generator': labels_stakes,
     'Canopy Cover Uploader': canopy_c, 
     'Seed Counter': seeds, 
-    'Combine Data Uploader': combinedata, 
+    'Combine': combine, 
     'Merge Data': merge_data, 
     'Meta-Data': metadata
 }

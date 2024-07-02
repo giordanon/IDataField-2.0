@@ -78,10 +78,8 @@ def app():
             df_pl['Location'] = df_pl['Location'].str.upper()
             df_trt['Location'] = df_trt['Location'].str.upper()           
             
-     
             #Remove FILL, XXXX, and NA's
             df_cb = df_cb.loc[(df_cb['Trial'] != "FILL") & (df_cb['Trial'] != "TBD") & (df_cb['Plot'] != "FILL")]
-            
             
             # Convert all Plot columns into same format
             # Combine
@@ -129,6 +127,7 @@ def app():
             df_merged = df_merged[df_merged.Trial == TRIAL]
             
             #st.dataframe(df_merged)
+            
             
             season = df_pl['Year'][1]
             year_folder = f'SEASON {season}'

@@ -1,4 +1,5 @@
 TRAIT,TRAIT_SHORT
+Biomass whole plant,WPB
 Spring Tiller Count,STC
 Biomass sampling,BS
 Fall Stand count,SSC
@@ -11,17 +12,8 @@ Fall fresh biomass weight,FFB
 Fall dry biomass weight,FDB
 Tiller Count,TC
 Crop vigor score,CVS
+Grinded Stover,GST
+Grinded chaff,GCH
 evaluate disease severity,DS
 Disease severity ,DS
 Flowering percentage,FWR
-Stover ,ST
-Grain,GR
-Head,HD
-Whole plant,WP
-Lodging ,LDG
-Plant Height 1,PH1
-Plant Height 2,PH2
-Plant Height 3,PH3
-Plant Height 3,PH3
-Plant Height 4,PH4
-Plant  high,PH
