@@ -39,10 +39,12 @@ def app():
     # Upload Treatments
     treatments =  st.file_uploader("Upload treatments data. Make sure location names and trial names match our keys", type=["csv", "xlsx"])
     
+    # edit the dataframe 
+    #selection = st.selectbox(f'Do you need to adjust plot length at {LOCATION}', ['Yes', 'No'],index=None )
+    
+    
     
     if upload and treatments:
-        
-        if st.button('Create yield files'):
         
             treatments = pd.read_excel(treatments)
             treatments.columns = ['LOCATION','TRIAL','TRT1', 'TRT2', 'TRT3', 'PLOT']
@@ -57,64 +59,81 @@ def app():
             # might eb able to remvoe these two
             idx = combine['TRIAL'].isin(TRIALS)
             combine = combine[idx]
+            
+    #if selection:
+     
+        #if selection == 'Yes':
+    if st.button('Do you want to modify plot length?'):
+        st.session_state["button_pressed"] = True
 
-            """
-            selection = st.selectbox(f'Do you need to adjust plot length at {LOCATION}', ['Yes', 'No'])
+    if st.session_state.get("button_pressed", False):
+        with st.form("data_editor_form"):
 
-            if selection:
-                if selection == 'No':
-                    st.write("No")
-                else:
-                    st.write("Yes")
-            """
+            st.caption("Modify plot length based on orthophoto.")
 
-            for trial in TRIALS:
-                # Trial data
-                m1 = data[data['TRIAL'] == trial]
-                m1['PLOT'] = m1['PLOT'].astype(np.int32)
-                # Combine data
-                m2 = combine[combine['TRIAL'] == trial]
-                m2['PLOT'] = m2['PLOT'].astype(np.int32)
-                # Treatments data
-                m3 = treatments[treatments['TRIAL'].isin([trial]) & treatments['LOCATION'].isin([LOCATION])]
-                m3['PLOT'] = m3['PLOT'].astype(np.int32)
+            combine['PLOT_LENGTH'] = LENGTH
 
-                # Merge DataFrames sequentially
-                m4 = pd.merge(m1,m3, on=['LOCATION','TRIAL', 'PLOT'], how = 'left')
-                m5 = pd.merge(m4,m2, on=['TRIAL', 'PLOT'], how = 'left')
+            edited = st.data_editor(combine, 
+                                    use_container_width=True, 
+                                    num_rows = "fixed", 
+                                    hide_index=True,
+                                    disabled = ('RANGE', 'ROW', 'TRIAL', 'PLOT', 'Weight', 'Moisture', 'Test Weight')
+                                   )
+            submit_button = st.form_submit_button("Submit")
 
-                WIDTH = 6 * 0.3048  
-                AREA = LENGTH * WIDTH
+        if submit_button:
+            combine = edited
+    else:
+        st.write(f'No adjustments selected for plot length. Using default plot legth {LENGTH} meters for all plots.')
 
-                m5['AREA'] = AREA        
+            
+    if st.button('Create yield files'):
+        
+        for trial in TRIALS:
+            # Trial data
+            m1 = data[data['TRIAL'] == trial]
+            m1['PLOT'] = m1['PLOT'].astype(np.int32)
+            # Combine data
+            m2 = combine[combine['TRIAL'] == trial]
+            m2['PLOT'] = m2['PLOT'].astype(np.int32)
+            # Treatments data
+            m3 = treatments[treatments['TRIAL'].isin([trial]) & treatments['LOCATION'].isin([LOCATION])]
+            m3['PLOT'] = m3['PLOT'].astype(np.int32)
 
-                m5['W13'] = m5['Weight'] * (100 - m5['Moisture'] ) /(100 - STD_MOIST)
-                m5['W0'] = m5['W13'] * (1 - STD_MOIST/100)
+            # Merge DataFrames sequentially
+            m4 = pd.merge(m1,m3, on=['LOCATION','TRIAL', 'PLOT'], how = 'left')
+            m5 = pd.merge(m4,m2, on=['TRIAL', 'PLOT'], how = 'left')
 
+            WIDTH = 6 * 0.3048  
 
-                m5['Yield Std Moist (kg/ha)'] = (m5['W13'] ) / m5['AREA'] * 10000
-                m5['Yield Dry Basis (kg/ha)'] = (m5['W0']) / m5['AREA'] * 10000
+            m5['AREA'] = m5['PLOT_LENGTH'] * WIDTH        
 
-                m5['Yield Std Moist (bu/ac)'] = ((m5['W13']) / m5['AREA']) * .0149 * 10000
-                m5['Yield Dry Basis (bu/ac)'] = ((m5['W0']) / m5['AREA']) *  .0149 * 10000
-
-                m5["TW (kg/hL)"] = m5["Test Weight"]
-
-                m5 = m5[['YEAR','LOCATION','TRIAL', 'RANGE', 'ROW', 'PLOT', "TRT1", "TRT2", "TRT3", "Yield Std Moist (kg/ha)", 
-                         "Yield Dry Basis (kg/ha)", "Yield Std Moist (bu/ac)", "Yield Dry Basis (bu/ac)", "TW (kg/hL)", 'Moisture']]
-
-
-                filename = fx.directory_check_combine(YEAR, trial)
-
-                fx.file_check_combine(LOCATION, filename, m5)
+            m5['W13'] = m5['Weight'] * (100 - m5['Moisture'] ) /(100 - STD_MOIST)
+            m5['W0'] = m5['W13'] * (1 - STD_MOIST/100)
 
 
+            m5['Yield Std Moist (kg/ha)'] = (m5['W13'] ) / m5['AREA'] * 10000
+            m5['Yield Dry Basis (kg/ha)'] = (m5['W0']) / m5['AREA'] * 10000
+
+            m5['Yield Std Moist (bu/ac)'] = ((m5['W13']) / m5['AREA']) * .0149 * 10000
+            m5['Yield Dry Basis (bu/ac)'] = ((m5['W0']) / m5['AREA']) *  .0149 * 10000
+
+            m5["TW (kg/hL)"] = m5["Test Weight"]
+
+            m5 = m5[['YEAR','LOCATION','TRIAL', 'RANGE', 'ROW', 'PLOT', "TRT1", "TRT2", "TRT3", "Yield Std Moist (kg/ha)", 
+                     "Yield Dry Basis (kg/ha)", "Yield Std Moist (bu/ac)", "Yield Dry Basis (bu/ac)", "TW (kg/hL)", 'Moisture']]
+
+            filename = fx.directory_check_combine(YEAR, trial)
+
+            fx.file_check_combine(LOCATION, filename, m5)
 
 
-                if m1.shape[0] == m5.shape[0]:
-                    st.write(f'Success! All observations for trial {trial} saved correctly. Number of observations match. Yield observations of {trial} in {LOCATION} are  {m5.shape[0]}.')
-                else:
-                    st.write(f'Check {trial} in {LOCATION} bacause observations do not match. Yield observations of {trial} in {LOCATION} are  {m5.shape[0]}, you should have {m1.shape[0]} plots according to labels file. ')
+
+
+            if m1.shape[0] == m5.shape[0]:
+                st.write(f'Success! All observations for trial {trial} saved correctly. Number of observations match. Yield observations of {trial} in {LOCATION} are  {m5.shape[0]}.')
+            else:
+                st.write(f'Check {trial} in {LOCATION} bacause observations do not match. Yield observations of {trial} in {LOCATION} are  {m5.shape[0]}, you should have {m1.shape[0]} plots according to labels file. ')
                 
                 
             
