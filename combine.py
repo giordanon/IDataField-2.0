@@ -107,7 +107,7 @@ def app():
             m4 = pd.merge(m1,m3, on=['LOCATION','TRIAL', 'PLOT'], how = 'left')
             m5 = pd.merge(m4,m2, on=['TRIAL', 'PLOT'], how = 'left')
 
-            m5['AREA'] = m5['PLOT_LENGTH'] * combine['ROWS']  * 0.3048     
+            m5['AREA'] = m5['PLOT_LENGTH'] * combine['ROWS']/NROW  * 0.3048 * 6   
 
             m5['W13'] = m5['Weight'] * (100 - m5['Moisture'] ) /(100 - STD_MOIST)
             m5['W0'] = m5['W13'] * (1 - STD_MOIST/100)
