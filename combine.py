@@ -20,6 +20,8 @@ def app():
             LOCATION = st.selectbox('LOCATION', options)
         with col3: 
             LENGTH = st.number_input('Insert default plot length in meters for a given field', value = 8.50, step = 0.01)
+        with col3: 
+            NROW = st.number_input('Insert default number of rows in the planter. Default set to 7.', value = 7, step = 1)
         with col4: 
             STD_MOIST = st.number_input('Standard grain trading moisture, default to 13.5%', value = 13.5, step = 0.01)
     
@@ -72,6 +74,7 @@ def app():
             st.caption("Modify plot length based on orthophoto.")
 
             combine['PLOT_LENGTH'] = LENGTH
+            combine['ROWS'] = NROW
 
             edited = st.data_editor(combine, 
                                     use_container_width=True, 
@@ -104,9 +107,7 @@ def app():
             m4 = pd.merge(m1,m3, on=['LOCATION','TRIAL', 'PLOT'], how = 'left')
             m5 = pd.merge(m4,m2, on=['TRIAL', 'PLOT'], how = 'left')
 
-            WIDTH = 6 * 0.3048  
-
-            m5['AREA'] = m5['PLOT_LENGTH'] * WIDTH        
+            m5['AREA'] = m5['PLOT_LENGTH'] * combine['ROWS']  * 0.3048     
 
             m5['W13'] = m5['Weight'] * (100 - m5['Moisture'] ) /(100 - STD_MOIST)
             m5['W0'] = m5['W13'] * (1 - STD_MOIST/100)
