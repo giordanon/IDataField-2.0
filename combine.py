@@ -15,10 +15,10 @@ def app():
         
         with col1: 
             YEAR = st.selectbox('YEAR', labels['YEAR'].unique())
-        with col2:
+        with col1:
             options = labels[labels['YEAR'].isin([YEAR])]['LOC_SHORT'].unique()
             LOCATION = st.selectbox('LOCATION', options)
-        with col3: 
+        with col2: 
             LENGTH = st.number_input('Insert default plot length in meters for a given field', value = 8.50, step = 0.01)
         with col3: 
             NROW = st.number_input('Insert default number of rows in the planter. Default set to 7.', value = 7, step = 1)
