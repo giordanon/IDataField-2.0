@@ -352,3 +352,49 @@ def update_samplings(values_to_add, TRIAL_SHORT, YEAR, LOC_SHORT):
     data.to_csv(filename, index = False)
     
     return(data)
+
+def explode_cc_labels(inData):
+    
+    """
+    input: 
+    output:
+    This function is for...
+    """
+    import pandas as pd
+    from numpy import arange
+    
+    inData = inData.dropna().reset_index()
+    inData['SAMPLING'] = inData['SAMPLING'].str.replace(' ', '').str.split(pat = ",",  expand = False)
+    inData['Trt1'] = pd.Series(dtype = 'object')
+    inData['Rep1'] = pd.Series(dtype = 'object')
+    
+    for k,row in inData.iterrows():
+        inData.at[k,'Trt1'] = arange(1,int(inData.at[k,'TRT'])+1)
+        inData.at[k,'Rep1'] = arange(1,int(inData.at[k,'REPS'])+1)
+            
+    df = inData.explode('SAMPLING').explode('Rep1').explode('Trt1')
+    df['Plot'] = df['Rep1'] * 100 + df['Trt1']
+    df = df[df['SAMPLING'].str.contains('CCP')].copy()
+    del df['SAMPLING']
+    df['SAM'] = 'CCP'
+    
+    df['LABEL'] = df['TRIAL_SHORT'].astype(str) + '-' + df['LOC_SHORT'].astype(str) + '-' + df['YEAR'].astype(str) + '-' + df['SAM'].astype(str) + '-' + df['Plot'].astype(str)
+    df = df[['TRIAL_SHORT','LOC_SHORT','YEAR','Plot','SAM', 'LABEL']]
+    df = df.reset_index()
+    df = df.drop_duplicates(subset=['LABEL'])
+    return df
+    
+def read_map(mapPath):
+    import pandas as pd 
+    df = pd.read_excel(mapPath,header = None)
+    nc = [str(i) for i in range(1, len(df.columns) + 1)]
+    # Rename columns
+    df.columns = nc
+    df = df.dropna()
+    df = df[::-1]
+    df.reset_index(drop = True, inplace = True)
+    df['y'] = df.index +1
+    df = pd.melt(df,value_name = 'Plot', id_vars = ['y'], var_name = 'x')
+    df['x'] = df['x'].astype(int)
+    df = df.sort_values(['y', 'x'], ascending=[True, True])
+    return df
