@@ -1,4 +1,4 @@
-import activities, dataupload, dataupload_other_data, labels, canopy_c, combinedata, seeds, merge_data, labels_stakes, welcome, field_data_uploader, metadata, combine, protein_data_uploader
+import activities, dataupload, dataupload_other_data, labels, canopy_cover, combinedata, seeds, merge_data, labels_stakes, welcome, field_data_uploader, metadata, combine, protein_data_uploader
 import streamlit as st
 from streamlit_option_menu import option_menu
 from PIL import Image
@@ -14,7 +14,7 @@ PAGES = {
     'Lab Data Uploader': dataupload_other_data,
     'Bag Labels Generator': labels, 
     'Stakes Labels Generator': labels_stakes,
-    'Canopy Cover Uploader': canopy_c, 
+    'Canopy Cover': canopy_cover, 
     'Seed Counter': seeds, 
     'Combine': combine, 
     'Merge Data': merge_data, 
