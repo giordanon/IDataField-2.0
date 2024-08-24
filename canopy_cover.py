@@ -8,6 +8,8 @@ import geopandas as gpd
 from geographiclib.geodesic import Geodesic
 import simplekml
 import functions as fx
+import cv2 as cv
+import matplotlib.pyplot as plt
 
 def app():
     tab1, tab2, tab3, tab4, tab5= st.tabs(['Assing Coordinates', 'Flight Path', 'Rename Photos', 'Crop Images', 'Green Canopy Cover'])
@@ -289,7 +291,7 @@ def app():
                 with col1:
                     rotation_angle = st.number_input("Rotation Angle", min_value=-180, max_value=180, value=rotation, step=1, format="%d", key="rotation_angle")  # Text input box for rotation
                 with col2:
-                    top_text = st.number_input("Top", min_value=50, max_value=2000, value=top, step=30, format="%d", key="top_text")  # Text input box for top value
+                    top_text = st.number_input("Top", min_value=50, max_value=2200, value=top, step=30, format="%d", key="top_text")  # Text input box for top value
     
                 # Rotate the image based on the provided angle
                 rows, cols, _ = image.shape
