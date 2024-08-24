@@ -398,3 +398,13 @@ def read_map(mapPath):
     df['x'] = df['x'].astype(int)
     df = df.sort_values(['y', 'x'], ascending=[True, True])
     return df
+# Function to crop the image
+def crop_image(image, top):
+    
+    import matplotlib.pyplot as plt
+    dimensions = image.shape
+    h = dimensions[0]
+    w = dimensions[1]
+    bottom = top + 1680
+    cropped_image = image[top:bottom, 1360:(w - 1360)]
+    return cropped_image

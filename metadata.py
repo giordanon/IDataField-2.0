@@ -69,7 +69,7 @@ def app():
         locations = pd.read_csv('metadata/Locations.csv')
         traits = pd.read_csv('metadata/Traits.csv')
         pheno = ['F010', 'F020', 'F030', 'F040', 'F050' ,'F060' ,'F070' ,'F080' ,'F090' ,'F010' ,'F101' ,'F105' ,'F111' ,'F112' ,'F113' ,'F114']
-        traits = pd.read_csv('metadata/Traits.csv')
+        #traits = pd.read_csv('metadata/Traits.csv')
         
         col1, col2, col3 = st.columns(3)
         

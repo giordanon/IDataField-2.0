@@ -38,7 +38,46 @@ def app():
             
         if os.path.isfile(filename):
             temp_trial = pd.read_csv(filename)
+            # Get locations from metadata
+            locations_meta = data[data['TRIAL_SHORT'].isin([TRIAL]) & data['YEAR'].isin([YEAR])]['LOC_SHORT'].unique()
+            # Get locations from _field file
+            locations_field = temp_trial['LOC_SHORT'].unique()
+            #st.write(list(locations_meta))
+            #st.write(list(locations_field))
+            # Check if locations match
+            non_matching_site = [item for item in locations_meta if item not in locations_field]
             
+            #st.write(non_matching_site)
+            
+            # If there is a new site we need to add it _field file
+            if len(non_matching_site) > 0: 
+                temp_trial = pd.read_csv(filename)
+                # Create dataset structure with new site
+                temp_site_new = data[(data['YEAR'] == YEAR) & (data['TRIAL_SHORT'] == TRIAL)]
+                
+                temp_site_new = temp_site_new[["YEAR", "LOC_SHORT", "Plot"]].drop_duplicates()
+                temp_site_new = temp_site_new[temp_site_new['LOC_SHORT'].isin(non_matching_site)]
+                
+                
+                
+                # check if there are any columns to add
+                columns_to_add = list(temp_trial.columns)[3:]
+                               
+                if len(columns_to_add) > 0:
+                    for col in columns_to_add:
+                        temp_site_new[col] = None                      
+                    # Optionally, reorder columns in df2 to match df1
+                    temp_site_new = temp_site_new.reindex(columns=temp_trial.columns)
+                
+                        #st.dataframe(temp_site_new)
+                        # Append new site to old _field file
+                    temp_trial = pd.concat([temp_trial, temp_site_new]).reset_index(drop=True)
+                    temp_trial.to_csv(filename, index = False)
+            # If sites match then
+            else:
+                temp_trial = pd.read_csv(filename)
+  
+            '''
             if not TRAIT in temp_trial.columns and TRAIT == 'FHS':
                 for i in range(1, 11):
                     temp_trial[f'FHS{i}'] = None
@@ -46,6 +85,7 @@ def app():
             if not TRAIT in temp_trial.columns and TRAIT == 'PH':
                 for i in range(1, 11):
                     temp_trial[f'PH{i}'] = None
+            '''
                     
             if not TRAIT in temp_trial.columns:
                 temp_trial[TRAIT] = None
@@ -53,7 +93,7 @@ def app():
         if not os.path.isfile(filename):
             temp_trial = data[(data['YEAR'] == YEAR) & (data['TRIAL_SHORT'] == TRIAL)]
             temp_trial = temp_trial[["YEAR", "LOC_SHORT", "Plot"]].drop_duplicates()
-            
+            '''
             if TRAIT == 'FHS':
                 for i in range(1, 11):
                     temp_trial[f'FHS{i}'] = None
@@ -61,15 +101,17 @@ def app():
             if TRAIT == 'PH':
                 for i in range(1, 11):
                     temp_trial[f'PH{i}'] = None
+            '''  
             if TRAIT != 'PH':  
                 temp_trial[TRAIT] = None
             if TRAIT != 'FHS':  
                 temp_trial[TRAIT] = None
+            '''    
             if 'FHS' in temp_trial.columns:
                 del temp_trial['FHS']
             if 'PH' in temp_trial.columns:
                 del temp_trial['PH']
-                
+            '''  
             temp_trial.to_csv(filename, index = False)
             
             
