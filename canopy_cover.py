@@ -73,8 +73,8 @@ def app():
                 st.session_state["button_pressed"] = True
     
                 if st.session_state.get("button_pressed", False):
-                    prev_year = 2000 + int(YEAR) - 1
-                    year_folder = f'SEASON {prev_year}-{YEAR}'
+                    prev_year = 2000 + int(YEAR1) - 1
+                    year_folder = f'SEASON {prev_year}-{YEAR1}'
                     out_filepath = f'../{year_folder}/03-Canopy Cover/{LOCATION}/'
                     filename = f'{out_filepath}/plotCoordinates.csv'
     
@@ -83,7 +83,7 @@ def app():
     
                 df = pd.merge(dfMap, dfCoor, on=['x', 'y'])
                 df['Location'] = LOCATION
-                df['Year'] = YEAR
+                df['Year'] = YEAR1
                 df['Pixels to crop'] = 1300
                 df['Rotation'] = 0
                 df[['Trial','Plot']] = df['Plot'].str.split('-', expand=True)
@@ -202,15 +202,20 @@ def app():
                 
             idx = labels['LOC_SHORT'].isin([LOCATION3]) & labels['TRIAL_SHORT'].isin(TRIAL3) & labels['YEAR'].isin([YEAR3])
             data = labels[idx]
-            
+            id_list = data['LABEL'].tolist()
+            Plots = data['Plot'].tolist()
+            num_ids = len(data)
+            missingPlots = st.multiselect('Select the missing plots',Plots)
+            if len(missingPlots)>0:
+                data = data[~data['Plot'].isin(missingPlots)]
+                id_list = data['LABEL'].tolist()
+                num_ids = len(data)            
             if st.button('Create Name'):
                 st.dataframe(data, hide_index=True,
-                             column_order=('LOC_SHORT', 'TRIAL_SHORT',  'YEAR', 'Plot', 'LABEL'))
-            photos = st.text_input('Enter folder path:')
-            id_list = data['LABEL'].tolist()
-            num_ids = len(data)
+                             column_order=('LOC_SHORT', 'TRIAL_SHORT',  'YEAR', 'Plot', 'LABEL')) 
+            photos = st.text_input('Enter folder path:')            
             rename = st.button("Rename Photos")
-            
+        
             if photos:
                 if rename:             
                     num_photos = len([name for name in os.listdir(photos) if os.path.isfile(os.path.join(photos, name))])
@@ -220,8 +225,9 @@ def app():
                                     old_file_path = os.path.join(photos, file_name)
                                     new_file_path = os.path.join(photos, f'{id_list[i]}.JPG')
                                     os.rename(old_file_path, new_file_path)
+                        st.success(f'{num_ids} photos have been renamed')
                     else:
-                        print('Error')    
+                        st.warning(f'The number of labels ({num_ids}) is not equal to the number of files ({num_photos}) in the folder')     
 
     with tab4:
         st.title("Image Cropper")
@@ -264,8 +270,7 @@ def app():
                     YEAR = label_split[2]
                     TRIAL = label_split[0].strip()
                     PLOT = label_split[4].strip()   
-                    
-                    
+                                        
                     prev_year = 2000 + int(YEAR) - 1
                     year_folder = f'SEASON {prev_year}-{YEAR}'
                     out_filepath = f'../{year_folder}/03-Canopy Cover/{LOCATION}/'
@@ -316,7 +321,7 @@ def app():
                        
         elif directory_path:
             st.write("Invalid directory path. Please enter a valid directory path.")
-    
+
     if __name__ == "__main__":
         main()
 
