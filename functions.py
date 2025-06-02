@@ -383,6 +383,12 @@ def explode_cc_labels(inData):
     df = df.reset_index()
     df = df.drop_duplicates(subset=['LABEL'])
     return df
+# Adjust Coordinates 
+def adjust_coordinates(df, south_adjustment, west_adjustment):
+    import numpy as np
+    df['Latitude'] -= south_adjustment / 111320
+    df['Longitude'] -= west_adjustment / (111320 * np.cos(np.radians(df['Latitude'])))
+    return df 
     
 def read_map(mapPath):
     import pandas as pd 

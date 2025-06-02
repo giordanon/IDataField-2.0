@@ -7,6 +7,20 @@ import pandas as pd
 def app():
    
     ID = st.text_input('SCAN QR CODE IN LABEL')
+    
+    if ID: 
+        filename, TRIAL, SITE, YEAR, SAMPLING, PLOT = fx.directory_check(ID)
+        
+        if os.path.exists(filename):
+            
+            temp_df = pd.read_csv(filename)
+
+            idx =  (temp_df['SITE'] == SITE) & (temp_df['YEAR'] == int(YEAR)) & (temp_df['TRAIT'] == 'TKW') & (temp_df['PLOT'] == int(PLOT))
+            temp_df2 = temp_df[idx]
+
+            if temp_df2.shape[0] > 0:
+                st.warning(f'TKW for {ID} is already on file. If you continue processing the sample, it will generate a duplicate.', icon="⚠️")
+    
     GRAIN_WEIGHT = st.number_input('Mass of the grains sample (g)')
     image = st.file_uploader("Upload Grains Picture")
 
