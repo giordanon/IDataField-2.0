@@ -131,14 +131,14 @@ def app():
             
             season = df_pl['Year'][1]
             year_folder = f'SEASON {season}'
-            #folder_path = f'../{year_folder}/01-Data/{TRIAL}'
+            #folder_path = f'../{year_folder}/01-Data/{TRIAL}' Luiz PradellaS2
             folder_path = f'../{year_folder}/01-Data/Combine_Data'
             
             filename = f'{folder_path}/{TRIAL}_Combine_Data.csv'
             
             if not os.path.exists(folder_path):
                 os.makedirs(folder_path)
-                
+            # Luiz Pradella    
             if not os.path.isfile(f'{filename}'):
                 df_merged.to_csv(filename, index = False)
 
