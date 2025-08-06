@@ -16,7 +16,7 @@ def explode_labels(inData):
     for k,row in inData.iterrows():
         inData.at[k,'Trt1'] = arange(1,int(inData.at[k,'TRT'])+1)
         inData.at[k,'Rep1'] = arange(1,int(inData.at[k,'REPS'])+1)
-            
+     #Jazmin!       
     df = inData.explode('SAMPLING').explode('Rep1').explode('Trt1')
     df['Plot'] = df['Rep1'] * 100 + df['Trt1']
     df['LABEL'] = df['TRIAL_SHORT'].astype(str) + '-' + df['LOC_SHORT'].astype(str) + '-' + df['YEAR'].astype(str) + '-' + df['SAMPLING'].astype(str) + '-' + df['Plot'].astype(str)
