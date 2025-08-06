@@ -131,7 +131,7 @@ def app():
             
             season = df_pl['Year'][1]
             year_folder = f'SEASON {season}'
-            #folder_path = f'../{year_folder}/01-Data/{TRIAL}' Luiz Pradela
+            #folder_path = f'../{year_folder}/01-Data/{TRIAL}' Luiz Pradella
             folder_path = f'../{year_folder}/01-Data/Combine_Data'
             
             filename = f'{folder_path}/{TRIAL}_Combine_Data.csv'
