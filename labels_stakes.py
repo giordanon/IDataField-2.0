@@ -65,6 +65,6 @@ def app():
         outPs = data.merge(dataTrt, on=["Plot","TRIAL_SHORT", "LOC_SHORT"]) 
         
         outPs = outPs.transpose()
-        outPs.to_excel(f"{FILENAME}.xlsx", index=False) # Aastha Gautam
+        outPs.to_excel(f"{FILENAME}.xlsx", index=False)
         st.dataframe(outPs)
     
