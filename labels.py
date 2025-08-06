@@ -58,7 +58,7 @@ def app():
         with open(f"{out_filepath}{FILENAME}.pdf", "rb") as pdf_file:
             PDFbyte = pdf_file.read()
     
-        if os.path.exists(f"{out_filepath}{FILENAME}.pdf"):
+        if os.path.exists(f"{out_filepath}{FILENAME}.pdf"): #Aastha Gautam
             st.download_button(label="Download Labels",
                                 data=PDFbyte,
                                 file_name=f"{FILENAME}.pdf",
