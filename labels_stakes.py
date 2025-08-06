@@ -62,9 +62,9 @@ def app():
         data = data[['Plot', 'TRIAL_SHORT', 'LOC_SHORT', 'YEAR']]
         
         # Merge data with treatments data
-        outPs = data.merge(dataTrt, on=["Plot","TRIAL_SHORT", "LOC_SHORT"]) #Aastha Gautam
+        outPs = data.merge(dataTrt, on=["Plot","TRIAL_SHORT", "LOC_SHORT"]) 
         
         outPs = outPs.transpose()
-        outPs.to_excel(f"{FILENAME}.xlsx", index=False)
+        outPs.to_excel(f"{FILENAME}.xlsx", index=False) # Aastha Gautam
         st.dataframe(outPs)
     
